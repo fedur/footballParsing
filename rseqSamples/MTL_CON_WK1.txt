@@ -1,0 +1,1050 @@
+Montreal vs Concordia (2019-08-23)
+Scoring Summary
+Team Statistics
+Individual Statistics
+Drive Chart
+Defensive Statistics
+Game Participation
+Box Score
+Play-by-Play
+Play breakdown
+Scoring Summary
+
+
+                            Scoring Summary (Final)
+                        Football universitaire RSEQ 2019
+               Montreal vs Concordia (2019-08-23 at Montreal, Qc)
+
+                 Montreal (1-0-0,1-0) vs. Concordia (0-1-0,0-1)
+Date: 2019-08-23    Site: Montreal, Qc          Stadium: Concordia Stadium
+Attendance: 2204
+
+Score by Quarters     1  2  3  4   Score
+-----------------    -- -- -- --   -----
+Montreal............  7  2  0  1  - 10
+Concordia...........  0  3  0  0  -  3
+
+
+
+Scoring Summary:
+1st 06:30 MTL - Dimitri Morand 1 yd run (L-P. Simoneau kick)
+                                                 8 plays, 59 yards, TOP 4:53, MTL 7 - CONC 0
+2nd 01:10 CONC - Andrew Stevens 27 yd field goal
+                                                 9 plays, 83 yards, TOP 3:39, MTL 7 - CONC 3
+    13:17 MTL - Team safety
+                                                                              MTL 9 - CONC 3
+4th 12:19 MTL - L-P. Simoneau rouge
+                                                                             MTL 10 - CONC 3
+
+
+
+Kickoff time: 19:10     End of Game: 21:42     Total elapsed time: 2:32
+Officials: Referee: Brent Young; Umpire: Dan Senerchia; Linesman: M.A. Daigneault;
+Line judge: Danny Roy; Back judge: L. Dubreuil; Field judge: Stephane Roy;
+Side judge: M. Daigneault;
+Temperature: 20        Wind: Moderate  Weather: Overcast
+
+
+
+
+Team Statistics
+
+
+                            Team Statistics (Final)
+                        Football universitaire RSEQ 2019
+               Montreal vs Concordia (2019-08-23 at Montreal, Qc)
+
+                                    MTL     CONC
+
+FIRST DOWNS...................       15       18
+  Rushing.....................       10        4
+  Passing.....................        4       12
+  Penalty.....................        1        2
+NET YARDS RUSHING.............       92       60
+  Rushing Attempts............       27       23
+  Average Per Rush............      3.4      2.6
+  Yards Gained Rushing........      136       75
+  Yards Lost Rushing..........       44       15
+NET YARDS PASSING.............      130      225
+  Completions-Attempts-Int....  12-25-1  20-33-1
+  Average Per Attempt.........      5.2      6.8
+  Average Per Completion......     10.8     11.2
+TEAM LOSSES...................       -7      -19
+TOTAL OFFENSE YARDS...........      215      266
+  Total offense plays.........       53       60
+  Average Gain Per Play.......      4.1      4.4
+Fumbles: Number-Lost..........      0-0      0-0
+Penalties: Number-Yards.......    12-99    11-75
+PUNTS-YARDS...................   10-379    8-314
+  Average Yards Per Punt......     37.9     39.2
+  Net Yards Per Punt..........     37.0     34.6
+  Inside 20...................        6        1
+  50+ Yards...................        1        0
+  Touchbacks..................        0        0
+  Fair catch..................        0        0
+KICKOFFS-YARDS................    2-120     1-52
+  Average Yards Per Kickoff...     60.0     52.0
+  Net Yards Per Kickoff.......     42.5     15.0
+  Touchbacks..................        0        0
+Punt returns: Number-Yards-TD.   5-37-0    6-9-0
+  Average Per Return..........      7.4      1.5
+Kickoff returns: Number-Yds-TD   1-37-0   2-35-0
+  Average Per Return..........     37.0     17.5
+Interceptions: Number-Yds-TD..    1-6-0    1-9-0
+Fumble Returns: Number-Yds-TD.    0-0-0    0-0-0
+Possession Time...............    29:48    30:12
+  1st Quarter.................     7:40     7:20
+  2nd Quarter.................     8:08     6:52
+  3rd Quarter.................     6:37     8:23
+  4th Quarter.................     7:23     7:37
+Third-Down Conversions........   1 of 1   3 of 7
+Red-Zone Scores-Chances.......      1-1      1-2
+Sacks By: Number-Yards........     4-19      1-7
+PAT Kicks.....................      1-1      0-0
+Field Goals...................      0-1      1-1
+
+
+
+Individual Statistics
+
+
+                                 Individual Statistics (Final)
+                                Football universitaire RSEQ 2019
+                       Montreal vs Concordia (2019-08-23 at Montreal, Qc)
+
+
+Montreal
+
+
+Rushing              No Gain Loss  Net TD Lg  Avg
+-------------------------------------------------
+Ryth-J. Giraud       13   92    3   89  0 14  6.8
+Kevin Dubois          5   24    2   22  0 14  4.4
+Dimitri Morand        4   15    0   15  1  6  3.8
+Kevin Kaya            1    5    0    5  0  5  5.0
+Team                  2    0    3   -3  0  0 -1.5
+Simon Laurin          2    0   36  -36  0  0 -18.0
+Totals...            27  136   44   92  1 14  3.4
+
+Passing              Att-Cmp-Int Yds TD Long Sack
+-------------------------------------------------
+Dimitri Morand         25-12-1   130  0   22    1
+Totals...              25-12-1   130  0   22    1
+
+Receiving             No.  Yds   TD Long
+----------------------------------------
+Mathieu Renault         4   45    0   15
+Ryth-J. Giraud          3   49    0   22
+Antoine Chabot          2   19    0   12
+Kevin Kaya              1    8    0    8
+Kevin Dubois            1    7    0    7
+Carl Chabot             1    2    0    2
+Totals...              12  130    0   22
+
+Punting               No.  Yds   Avg Long In20   TB
+---------------------------------------------------
+L-P. Simoneau          10  379  37.9   50    6    0
+Totals...              10  379  37.9   50    6    0
+
+                       Punts   Kickoffs  Intercept
+All Returns          No.Yds.Lg No.Yds.Lg No.Yds.Lg
+--------------------------------------------------
+Ryth-J. Giraud        5  37 13  0   0  0  0   0  0
+Marc-A. Dequoy        0   0  0  1  37 37  0   0  0
+Jean-P Levesque       0   0  0  0   0  0  1   6  6
+Totals...             5  37 13  1  37 37  1   6  6
+
+Field goal attempts
+----------------------------------------
+L-P. Simoneau        4th 02:41  32 yds - Rouge
+
+Kickoffs         No.  Yds  TB  OB   Avg
+---------------------------------------
+L-P. Simoneau      2  120   0   0  60.0
+
+
+
+Concordia
+
+
+Rushing              No Gain Loss  Net TD Lg  Avg
+-------------------------------------------------
+Glody Musangu        14   50    6   44  0 11  3.1
+Kevin Foster V.       2   11    0   11  0  8  5.5
+Adam Vance            3   10    4    6  0  9  2.0
+Oliver St-Onge        2    2    0    2  0  2  1.0
+Jeremy Murphy         1    2    0    2  0  2  2.0
+Team                  1    0    5   -5  0  0 -5.0
+Totals...            23   75   15   60  0 11  2.6
+
+Passing              Att-Cmp-Int Yds TD Long Sack
+-------------------------------------------------
+Adam Vance             33-20-1   225  0   43    4
+Totals...              33-20-1   225  0   43    4
+
+Receiving             No.  Yds   TD Long
+----------------------------------------
+James Tyrrell           7   71    0   15
+Jeremy Murphy           5   95    0   43
+Sam Nadon               5   43    0   11
+Joel Slavik             2   13    0    7
+Glody Musangu           1    3    0    3
+Totals...              20  225    0   43
+
+Punting               No.  Yds   Avg Long In20   TB
+---------------------------------------------------
+Andrew Stevens          8  314  39.2   45    1    0
+Totals...               8  314  39.2   45    1    0
+
+                       Punts   Kickoffs  Intercept
+All Returns          No.Yds.Lg No.Yds.Lg No.Yds.Lg
+--------------------------------------------------
+James Tyrrell         2   5  3  0   0  0  0   0  0
+Khadeem Pierre        0   0  0  0   0  0  1   9  9
+Kevin Foster V.       4   4  2  2  35 21  0   0  0
+Totals...             6   9  3  2  35 21  1   9  9
+
+Field goal attempts
+----------------------------------------
+Andrew Stevens       2nd 13:50  27 yds - Good
+
+Kickoffs         No.  Yds  TB  OB   Avg
+---------------------------------------
+Andrew Stevens     1   52   0   0  52.0
+
+
+
+FUMBLES: Montreal-None. Concordia-None.
+
+
+Drive Chart
+
+
+                                      Drive Chart (Final)
+                                Football universitaire RSEQ 2019
+                       Montreal vs Concordia (2019-08-23 at Montreal, Qc)
+
+                 Drive Started             Drive Ended             Consumed
+Team     Qtr Spot Time   Obtained      Spot Time   How Lost      Pl-Yds   TOP 
+-------------------------------------------------------------------------------------
+MTL      1st M51  13:23  Punt          C00  08:30 *TOUCHDOWN      8-59   4:53#
+MTL      1st M43  05:16  Downs         C45  02:29  Punt           4-22   2:47
+MTL      2nd M35  13:50  Possession    M49  10:27  Interception   7-14   3:23
+MTL      2nd M51  08:00  Downs         C50  05:35  Punt           4-9    2:25
+MTL      2nd M42  03:41  Punt          C45  02:01  Punt           4-23   1:40
+MTL      2nd M35  01:43  Possession    M50  01:03  Punt           4-15   0:40
+MTL      2nd M21  00:00  Interception  M21  00:00  End of half    0-0    0:00
+MTL      3rd M50  14:50  Kickoff       M43  13:24  Punt           2--7   1:26
+MTL      3rd M02  09:10  Punt          M19  05:50  Punt           4-17   3:20
+MTL      3rd M27  03:11  Punt          M35  01:49  Punt           2-8    1:22
+MTL      3rd M43  00:19  Punt          C53  13:51  Punt           3-14   1:28
+MTL      4th M54  10:13  Punt          M54  08:25  Punt           2-0    1:48
+MTL      4th M50  05:52  Punt          C25  02:41 *SINGLE         6-35   3:11
+MTL      4th C34  01:47  Punt          C50  00:49  Punt           2--16  0:58
+MTL      4th C38  00:17  Downs         C41  00:00  End of half    2--3   0:17
+
+CONC     1st C24  15:00  Kickoff       C27  13:23  Punt           2-3    1:37
+CONC     1st C21  08:24  Kickoff       M43  05:16  Downs          6-46   3:08
+CONC     1st C07  02:29  Punt          M20  13:50 *FIELD GOAL     9-83   3:39#
+CONC     2nd C50  10:27  Interception  M51  08:00  Downs          3-9    2:27
+CONC     2nd C21  05:35  Punt          C20  03:41  Punt           2--1   1:54
+CONC     2nd C10  02:01  Punt          C00  01:43 *SAFETY         3--10  0:18
+CONC     2nd C52  01:03  Punt          M15  00:00  Interception   6-43   1:03#
+CONC     3rd C38  13:24  Punt          M47  09:10  Punt           7-25   4:14
+CONC     3rd C38  05:50  Punt          C51  03:11  Punt           5-13   2:39
+CONC     3rd C28  01:49  Punt          C35  00:19  Punt           2-7    1:30
+CONC     4th C11  13:51  Punt          C25  10:13  Punt           6-14   3:38
+CONC     4th C07  08:25  Punt          C33  05:52  Punt           5-26   2:33
+CONC     4th C35  02:41  Missed FG     C34  01:47  Punt           2--1   0:54
+CONC     4th C10  00:49  Punt          C38  00:17  Downs          5-28   0:32
+
+MTL                       1st   2nd   3rd   4th     1st   2nd       
+                          Qtr   Qtr   Qtr   Qtr    Half  Half  Total
+---------------------------------------------------------------------------
+Time of possession       07:40 08:08 06:37 07:23   15:48 14:00 29:48
+3rd Down Conversions      0/0   1/1   0/0   0/0     1/1   0/0   1/1
+Avg Field Position        M47   M40   M30   C47     M42   M46   M45
+4th Down Conversions      0/0   0/0   0/0   0/0     0/0   0/0   0/0
+
+CONC                      1st   2nd   3rd   4th     1st   2nd       
+                          Qtr   Qtr   Qtr   Qtr    Half  Half  Total
+---------------------------------------------------------------------------
+Time of possession       07:20 06:52 08:23 07:37   14:12 16:00 30:12
+3rd Down Conversions      1/2   0/2   2/2   0/1     1/4   2/3   3/7
+Avg Field Position        C17   C33   C34   C15     C26   C23   C25
+4th Down Conversions      0/0   0/0   0/0   0/0     0/0   0/0   0/0
+
+
+                                    Drive Chart (By Quarter)
+
+                 Drive Started             Drive Ended             Consumed
+Team     Qtr Spot Time   Obtained      Spot Time   How Lost      Pl-Yds   TOP 
+-------------------------------------------------------------------------------------
+CONC     1st C24  15:00  Kickoff       C27  13:23  Punt           2-3    1:37
+MTL      1st M51  13:23  Punt          C00  08:30 *TOUCHDOWN      8-59   4:53#
+CONC     1st C21  08:24  Kickoff       M43  05:16  Downs          6-46   3:08
+MTL      1st M43  05:16  Downs         C45  02:29  Punt           4-22   2:47
+CONC     1st C07  02:29  Punt          M20  13:50 *FIELD GOAL     9-83   3:39#
+
+MTL      2nd M35  13:50  Possession    M49  10:27  Interception   7-14   3:23
+CONC     2nd C50  10:27  Interception  M51  08:00  Downs          3-9    2:27
+MTL      2nd M51  08:00  Downs         C50  05:35  Punt           4-9    2:25
+CONC     2nd C21  05:35  Punt          C20  03:41  Punt           2--1   1:54
+MTL      2nd M42  03:41  Punt          C45  02:01  Punt           4-23   1:40
+CONC     2nd C10  02:01  Punt          C00  01:43 *SAFETY         3--10  0:18
+MTL      2nd M35  01:43  Possession    M50  01:03  Punt           4-15   0:40
+CONC     2nd C52  01:03  Punt          M15  00:00  Interception   6-43   1:03#
+MTL      2nd M21  00:00  Interception  M21  00:00  End of half    0-0    0:00
+
+MTL      3rd M50  14:50  Kickoff       M43  13:24  Punt           2--7   1:26
+CONC     3rd C38  13:24  Punt          M47  09:10  Punt           7-25   4:14
+MTL      3rd M02  09:10  Punt          M19  05:50  Punt           4-17   3:20
+CONC     3rd C38  05:50  Punt          C51  03:11  Punt           5-13   2:39
+MTL      3rd M27  03:11  Punt          M35  01:49  Punt           2-8    1:22
+CONC     3rd C28  01:49  Punt          C35  00:19  Punt           2-7    1:30
+MTL      3rd M43  00:19  Punt          C53  13:51  Punt           3-14   1:28
+
+CONC     4th C11  13:51  Punt          C25  10:13  Punt           6-14   3:38
+MTL      4th M54  10:13  Punt          M54  08:25  Punt           2-0    1:48
+CONC     4th C07  08:25  Punt          C33  05:52  Punt           5-26   2:33
+MTL      4th M50  05:52  Punt          C25  02:41 *SINGLE         6-35   3:11
+CONC     4th C35  02:41  Missed FG     C34  01:47  Punt           2--1   0:54
+MTL      4th C34  01:47  Punt          C50  00:49  Punt           2--16  0:58
+CONC     4th C10  00:49  Punt          C38  00:17  Downs          5-28   0:32
+MTL      4th C38  00:17  Downs         C41  00:00  End of half    2--3   0:17
+
+
+
+Defensive Statistics
+
+
+                                Defensive Statistics (Final)
+                              Football universitaire RSEQ 2019
+                     Montreal vs Concordia (2019-08-23 at Montreal, Qc)
+
+
+Montreal            
+## Player               Solo  Ast  Tot  TFL/Yds  FF FR-Yd Intc BrUp Blkd Sack/Yds QH
+-------------------------------------------------------------------------------------------
+7  Br. Harelimana          7    1  7.5  1.0/4    .   .     .      .    .   1.0/4    .
+1  Redha Kramdi            7    .  7.0     .     .   .     .      .    .      .     .
+53 Felix Pelletier         4    1  4.5  3.0/8    .   .     .      .    .   1.0/5    .
+9  Jean-S. Belisle         4    .  4.0     .     .   .     .      .    .      .     .
+24 Marc-A. Dequoy          4    .  4.0     .     .   .     .      .    .      .     .
+45 Jean-P Levesque         4    .  4.0  1.0/5    .   .    1-6     .    .   1.0/5    .
+40 Samuel Rossi            2    3  3.5     .     .   .     .      .    .      .     .
+31 Bruno Lagace            3    .  3.0     .     .   .     .      .    .      .     .
+21 T-O. Copeland           2    .  2.0     .     .   .     .      .    .      .     .
+44 Benoit Marion           2    .  2.0  2.0/8    .   .     .      .    .   1.0/5    .
+4  C.-Adler Joseph         1    .  1.0     .     .   .     .      .    .      .     .
+17 Alexandre Hardy         1    .  1.0     .     .   .     .      .    .      .     .
+8  Benedicte Cayo          .    1  0.5     .     .   .     .      .    .      .     .
+TM Team                    .    .   .      .     .   .     .      .    .      .     .
+
+Concordia           
+## Player               Solo  Ast  Tot  TFL/Yds  FF FR-Yd Intc BrUp Blkd Sack/Yds QH
+-------------------------------------------------------------------------------------------
+21 Zamaad Gambari          4    3  5.5     .     .   .     .      .    .      .     .
+17 Louis-P Leclerc         4    .  4.0     .     .   .     .      .    .      .     .
+18 Sam. Brodrique          2    4  4.0  0.5/1    .   .     .      1    .      .     .
+92 Jahmensky Lubin         2    3  3.5  0.5/2    .   .     .      .    .      .     .
+3  David Germain           2    2  3.0     .     .   .     .      .    .      .     .
+90 Maleek Desir            2    1  2.5  1.5/5    .   .     .      .    .   0.5/3    .
+50 Wael Nasri              2    1  2.5     .     .   .     .      .    .      .     .
+5  Khadeem Pierre          1    3  2.5     .     .   .    1-9     .    .      .     .
+23 Michael Asibuo          1    2  2.0     .     .   .     .      .    .      .     .
+42 John Boachie            1    1  1.5  0.5/4    .   .     .      .    .   0.5/4    .
+10 Jersey Henry            1    1  1.5     .     .   .     .      1    .      .     .
+61 Alexander Hall          1    .  1.0     .     .   .     .      .    .      .     .
+19 Andrew Stevens          1    .  1.0     .     .   .     .      .    .      .     .
+56 Mason Paleck            .    1  0.5     .     .   .     .      .    .      .     .
+8  Der. Achaempong         .    .   .      .     .   .     .      3    .      .     .
+
+
+
+Participation Report
+
+
+                          Participation Report (Final)
+                        Football universitaire RSEQ 2019
+               Montreal vs Concordia (2019-08-23 at Montreal, Qc)
+
+
+ Montreal: 1-Redha Kramdi, 2-Mich. Brodrique, 3-Dimitri Morand, 4-C.-Adler Joseph, 5-Kaylyn St-Cyr, 6-Isaac Auger,
+ 7-Br. Harelimana, 8-Benedicte Cayo, 9-Jean-S. Belisle, 10-Alan Penverne, 11-Vince Biande, 13-Carl Chabot, 14-Gab Archambault,
+ 15-Ethan Makonzo, 17-Alexandre Hardy, 18-L-P. Simoneau, 20-Kevin Kaya, 21-T-O. Copeland, 22-Kevin Dubois, 24-Marc-A. Dequoy,
+ 26-William Perrier, 28-Maxime Joubert, 29-Ryth-J. Giraud, 31-Bruno Lagace, 32-Danny D.-Smith, 34-Alexis Boulange,
+ 38-Antoine Chabot, 40-Samuel Rossi, 41-Samuel Chenier, 42-Philippe Lavoie, 44-Benoit Marion, 45-Jean-P Levesque, 47-Sean Cote,
+ 50-P-G. Germain, 53-Felix Pelletier, 54-Marc-Ant. Lemay, 55-Simon Laurin, 59-Thierry Bernier, 60-David Sevigny, 65-Lucas Boh,
+ 66-Pier-O. Lestage, 68-Marc-A. Houde, 73-Tristan Fiske-C, 81-Antoine Mailhot, 84-Mathieu Renault, 91-William Caron,
+ 97-Tommy Mercier, 98-Gab. Beauchamp.
+
+ Concordia: 3-David Germain, 4-Adam Vance, 5-Khadeem Pierre, 6-Edwin Tawiah, 7-James Tyrrell, 8-Der. Achaempong, 9-Oliver St-Onge,
+ 10-Jersey Henry, 11-Kizito Kabanza, 12-Olivier Roy, 13-Jacob Salvail, 15-Jeremy Murphy, 17-Louis-P Leclerc, 18-Sam. Brodrique,
+ 19-Andrew Stevens, 20-Glody Musangu, 21-Zamaad Gambari, 22-Marsh. Mather, 23-Michael Asibuo, 24-Kevin Foster V.,
+ 25-Nic. Diaquoi-R., 26-Louis-P Maltais, 30-Jeremie Nicolas, 33-B. James Santos, 34-William Benoit, 40-Vincent Fortin,
+ 42-John Boachie, 45-Derrick Obas, 48-Jamal Spooner, 50-Wael Nasri, 55-Thiery Taillon, 56-Mason Paleck, 61-Alexander Hall,
+ 62-Dawson Mucha, 63-Noah Dominigue, 64-Maxime Giroux, 67-Dam. Constantin, 69-Jordan Hurley, 80-Malick Sylvain,
+ 81-P-Ol Fournier-L, 86-Sam Nadon, 87-Marc-O Lavoie-P, 89-Joel Slavik, 90-Maleek Desir, 91-Maxime Nadeau, 92-Jahmensky Lubin,
+ 95-McFarl. Chauvel, 97-Yassir Laarais.
+
+
+
+Box Score
+
+                               Box Score (Final)
+               Montreal vs Concordia (2019-08-23 at Montreal, Qc)
+
+Score by Quarters     1  2  3  4   Score
+-----------------    -- -- -- --   -----
+Montreal............  7  2  0  1  - 10       Record: (1-0-0,1-0)
+Concordia...........  0  3  0  0  -  3       Record: (0-1-0,0-1)
+
+
+
+Scoring Summary:
+1st 06:30 MTL - Dimitri Morand 1 yd run (L-P. Simoneau kick), 8-59 4:53, MTL 7 - CONC 0
+2nd 01:10 CONC - Andrew Stevens 27 yd field goal, 9-83 3:39, MTL 7 - CONC 3
+    13:17 MTL - Team safety, , MTL 9 - CONC 3
+4th 12:19 MTL - L-P. Simoneau rouge, , MTL 10 - CONC 3
+
+
+
+                                    MTL     CONC
+FIRST DOWNS...................       15       18
+RUSHES-YARDS (NET)............    27-92    23-60
+PASSING YDS (NET).............      130      225
+Passes Att-Comp-Int...........  25-12-1  33-20-1
+TOTAL OFFENSE PLAYS-YARDS.....   53-215   60-266
+Fumble Returns-Yards..........      0-0      0-0
+Punt Returns-Yards............     5-37      6-9
+Kickoff Returns-Yards.........     1-37     2-35
+Interception Returns-Yards....      1-6      1-9
+Punts (Number-Avg)............  10-37.9   8-39.2
+Fumbles-Lost..................      0-0      0-0
+Penalties-Yards...............    12-99    11-75
+Possession Time...............    29:48    30:12
+Third-Down Conversions........   1 of 1   3 of 7
+Red-Zone Scores-Chances.......      1-1      1-2
+Sacks By: Number-Yards........     4-19      1-7
+
+
+RUSHING: Montreal-Ryth-J. Giraud 13-89; Kevin Dubois 5-22; Dimitri Morand
+4-15; Kevin Kaya 1-5; Team 2-minus 3; Simon Laurin 2-minus 36. Concordia-Glody
+Musangu 14-44; Kevin Foster V. 2-11; Adam Vance 3-6; Oliver St-Onge 2-2; Jeremy
+Murphy 1-2; Team 1-minus 5.
+
+PASSING: Montreal-Dimitri Morand 12-25-1-130. Concordia-Adam Vance
+20-33-1-225.
+
+RECEIVING: Montreal-Mathieu Renault 4-45; Ryth-J. Giraud 3-49; Antoine
+Chabot 2-19; Kevin Kaya 1-8; Kevin Dubois 1-7; Carl Chabot 1-2. Concordia-James
+Tyrrell 7-71; Jeremy Murphy 5-95; Sam Nadon 5-43; Joel Slavik 2-13; Glody
+Musangu 1-3.
+
+INTERCEPTIONS: Montreal-Jean-P Levesque 1-6. Concordia-Khadeem Pierre
+1-9.
+
+FUMBLES: Montreal-None. Concordia-None.
+
+Stadium: Concordia Stadium     Attendance: 2204
+Kickoff time: 19:10     End of Game: 21:42     Total elapsed time: 2:32
+Officials: Referee: Brent Young; Umpire: Dan Senerchia; Linesman: M.A. Daigneault;
+Line judge: Danny Roy; Back judge: L. Dubreuil; Field judge: Stephane Roy;
+Side judge: M. Daigneault;
+Temperature: 20        Wind: Moderate  Weather: Overcast
+
+
+
+               Montreal vs Concordia (2019-08-23 at Montreal, Qc)
+
+SACKS (UA-A): Montreal-Benoit Marion 1-0; Felix Pelletier 1-0; Br.
+Harelimana 1-0; Jean-P Levesque 1-0. Concordia-John Boachie 0-1; Maleek Desir
+0-1.
+
+TACKLES (UA-A): Montreal-Br. Harelimana 7-1; Redha Kramdi 7-0; Felix
+Pelletier 4-1; Jean-S. Belisle 4-0; Jean-P Levesque 4-0; Marc-A. Dequoy 4-0;
+Samuel Rossi 2-3; Bruno Lagace 3-0; T-O. Copeland 2-0; Benoit Marion 2-0;
+C.-Adler Joseph 1-0; Alexandre Hardy 1-0; Benedicte Cayo 0-1. Concordia-Zamaad
+Gambari 4-3; Louis-P Leclerc 4-0; Sam. Brodrique 2-4; Jahmensky Lubin 2-3; David
+Germain 2-2; Maleek Desir 2-1; Wael Nasri 2-1; Khadeem Pierre 1-3; Michael
+Asibuo 1-2; Jersey Henry 1-1; John Boachie 1-1; Andrew Stevens 1-0; Alexander
+Hall 1-0; Mason Paleck 0-1.
+
+
+
+Player participation:
+
+
+Montreal: 1-Redha Kramdi, 2-Mich. Brodrique, 3-Dimitri Morand, 4-C.-Adler Joseph, 5-Kaylyn St-Cyr, 6-Isaac Auger,
+7-Br. Harelimana, 8-Benedicte Cayo, 9-Jean-S. Belisle, 10-Alan Penverne, 11-Vince Biande, 13-Carl Chabot, 14-Gab Archambault,
+15-Ethan Makonzo, 17-Alexandre Hardy, 18-L-P. Simoneau, 20-Kevin Kaya, 21-T-O. Copeland, 22-Kevin Dubois, 24-Marc-A. Dequoy,
+26-William Perrier, 28-Maxime Joubert, 29-Ryth-J. Giraud, 31-Bruno Lagace, 32-Danny D.-Smith, 34-Alexis Boulange,
+38-Antoine Chabot, 40-Samuel Rossi, 41-Samuel Chenier, 42-Philippe Lavoie, 44-Benoit Marion, 45-Jean-P Levesque, 47-Sean Cote,
+50-P-G. Germain, 53-Felix Pelletier, 54-Marc-Ant. Lemay, 55-Simon Laurin, 59-Thierry Bernier, 60-David Sevigny, 65-Lucas Boh,
+66-Pier-O. Lestage, 68-Marc-A. Houde, 73-Tristan Fiske-C, 81-Antoine Mailhot, 84-Mathieu Renault, 91-William Caron,
+97-Tommy Mercier, 98-Gab. Beauchamp.
+
+Concordia: 3-David Germain, 4-Adam Vance, 5-Khadeem Pierre, 6-Edwin Tawiah, 7-James Tyrrell, 8-Der. Achaempong, 9-Oliver St-Onge,
+10-Jersey Henry, 11-Kizito Kabanza, 12-Olivier Roy, 13-Jacob Salvail, 15-Jeremy Murphy, 17-Louis-P Leclerc, 18-Sam. Brodrique,
+19-Andrew Stevens, 20-Glody Musangu, 21-Zamaad Gambari, 22-Marsh. Mather, 23-Michael Asibuo, 24-Kevin Foster V.,
+25-Nic. Diaquoi-R., 26-Louis-P Maltais, 30-Jeremie Nicolas, 33-B. James Santos, 34-William Benoit, 40-Vincent Fortin,
+42-John Boachie, 45-Derrick Obas, 48-Jamal Spooner, 50-Wael Nasri, 55-Thiery Taillon, 56-Mason Paleck, 61-Alexander Hall,
+62-Dawson Mucha, 63-Noah Dominigue, 64-Maxime Giroux, 67-Dam. Constantin, 69-Jordan Hurley, 80-Malick Sylvain,
+81-P-Ol Fournier-L, 86-Sam Nadon, 87-Marc-O Lavoie-P, 89-Joel Slavik, 90-Maleek Desir, 91-Maxime Nadeau, 92-Jahmensky Lubin,
+95-McFarl. Chauvel, 97-Yassir Laarais.
+
+
+
+
+Play-by-Play Summary
+
+
+                               Play-by-Play Summary (1st quarter)
+                                Football universitaire RSEQ 2019
+                       Montreal vs Concordia (2019-08-23 at Montreal, Qc)
+
+               U de M wins coin toss and defers.  Conc will receive the kick-off
+
+               L-P. Simoneau kickoff 62 yards to the CONC3, Kevin Foster V. return 21 yards
+               to the CONC24 (Br. Harelimana).
+      C 1-10 C24   Adam Vance sacked for loss of 4 yards to the CONC20 (Br. Harelimana).
+      C 2-14 C20   Adam Vance pass complete to Sam Nadon for 7 yards to the CONC27 (Jean-P
+                   Levesque).
+      C 3-7  C27   Andrew Stevens punt 37 yards to the MTL46, PENALTY CONC NY 15 yards
+                   to the CONC49, 1st and 10, MTL ball on MTL51, PENALTY MTL holding 0
+                   yards to the MTL51, 1st and 10, MTL ball on MTL51.
+--------------- 2 plays, 3 yards, TOP 01:37 ---------------
+
+  M 1-10 M51   MONTREAL drive start at 13:23 (1st).
+  M 1-10 M51   Ryth-J. Giraud rush for 2 yards to the MTL53 (Khadeem Pierre).
+  M 2-8  M53   Dimitri Morand pass complete to Mathieu Renault for 14 yards to the CONC43,
+               1ST DOWN MTL (David Germain).
+  M 1-10 C43   Kevin Kaya rush for 5 yards to the CONC38 (Zamaad Gambari).
+  M 2-5  C38   Dimitri Morand pass complete to Ryth-J. Giraud for 22 yards to the CONC16,
+               1ST DOWN MTL (David Germain).
+  M 1-10 C16   PENALTY CONC offside 5 yards to the CONC11.
+  M 1-5  C11   Kevin Dubois rush for 1 yard to the CONC10 (Jersey Henry).
+  M 2-4  C10   Kevin Dubois rush for 5 yards to the CONC5, 1ST DOWN MTL (Zamaad
+               Gambari;Jahmensky Lubin).
+  M 1-G  C05   Kevin Dubois rush for 4 yards to the CONC1 (Zamaad Gambari).
+  M 2-G  C01   Dimitri Morand rush for 1 yard to the CONC0, 1ST DOWN MTL, TOUCHDOWN,
+               clock 08:30.
+               L-P. Simoneau kick attempt good.
+
+                                    =======================
+                                    MONTREAL 7, CONCORDIA 0
+                                    =======================
+
+--------------- 8 plays, 59 yards, TOP 04:53 ---------------
+
+               L-P. Simoneau kickoff 58 yards to the CONC7, Kevin Foster V. return 14 yards
+               to the CONC21 (Br. Harelimana).
+      C 1-10 C21   CONCORDIA drive start at 08:24 (1st).
+      C 1-10 C21   Adam Vance pass complete to Jeremy Murphy for 29 yards to the CONC50,
+                   1ST DOWN CONC (Bruno Lagace).
+      C 1-10 C50   Glody Musangu rush for 7 yards to the MTL53 (Redha Kramdi).
+      C 2-3  M53   Adam Vance pass complete to Jeremy Murphy for 4 yards to the MTL49,
+                   1ST DOWN CONC.
+      C 1-10 M49   Adam Vance rush for 9 yards to the MTL40.
+      C 2-1  M40   Glody Musangu rush for loss of 3 yards to the MTL43 (Benoit Marion).
+      C 3-4  M43   Adam Vance pass incomplete to James Tyrrell.
+--------------- 6 plays, 46 yards, TOP 03:08 ---------------
+
+  M 1-10 M43   MONTREAL drive start at 05:16 (1st).
+  M 1-10 M43   Timeout Concordia, clock 04:56.
+  M 1-10 M43   Ryth-J. Giraud rush for loss of 3 yards to the MTL40 (Jahmensky Lubin;Sam.
+               Brodrique).
+  M 2-13 M40   Dimitri Morand pass complete to Ryth-J. Giraud for 18 yards to the CONC52,
+               1ST DOWN MTL (Khadeem Pierre;David Germain).
+  M 1-10 C52   Dimitri Morand pass complete to Antoine Chabot for 7 yards to the CONC45.
+  M 2-3  C45   Dimitri Morand pass incomplete to Kevin Kaya, dropped pass.
+  M 3-3  C45   L-P. Simoneau punt 38 yards to the CONC7, out-of-bounds.
+--------------- 4 plays, 22 yards, TOP 02:47 ---------------
+
+      C 1-10 C07   CONCORDIA drive start at 02:29 (1st).
+      C 1-10 C07   Adam Vance pass complete to James Tyrrell for 12 yards to the CONC19,
+                   1ST DOWN CONC (Bruno Lagace).
+      C 1-10 C19   Glody Musangu rush for 11 yards to the CONC30, 1ST DOWN CONC (Br.
+                   Harelimana).
+      C 1-10 C30   Adam Vance pass complete to Jeremy Murphy for 43 yards to the MTL37,
+                   1ST DOWN CONC (Alexandre Hardy).
+      C 1-10 M37   Glody Musangu rush for 2 yards to the MTL35 (Felix Pelletier).
+      C 2-8  M35   Adam Vance pass complete to Joel Slavik for 7 yards to the MTL28 (T-O.
+                   Copeland).
+      C 3-1  M28   Oliver St-Onge rush for 2 yards to the MTL26, 1ST DOWN CONC
+                   (Marc-A. Dequoy).
+
+                                    ==END OF 1st QUARTER===
+                                    MONTREAL 7, CONCORDIA 0
+                                    =======================
+
+Play-by-Play Summary (2nd quarter)
+
+      C 1-10 M26   Start of 2nd quarter, clock 15:00.
+      C 1-10 M26   PENALTY MTL offside 5 yards to the MTL21.
+      C 1-5  M21   Adam Vance pass incomplete to Glody Musangu.
+      C 2-5  M21   Glody Musangu rush for 1 yard to the MTL20 (Samuel Rossi;Benedicte
+                   Cayo).
+      C 3-4  M20   Timeout Concordia, clock 13:56.
+      C 3-4  M20   Andrew Stevens field goal attempt from 27 GOOD, clock 13:50.
+
+                                    =======================
+                                    MONTREAL 7, CONCORDIA 3
+                                    =======================
+
+      C 1-G  C45   Change of possession, MTL ball on MTL35, 1st and 10.
+--------------- 9 plays, 83 yards, TOP 03:39 ---------------
+
+  M 1-10 M35   MONTREAL drive start at 13:50 (2nd).
+  M 1-10 M35   Ryth-J. Giraud rush for 7 yards to the MTL42 (Wael Nasri).
+  M 2-3  M42   Ryth-J. Giraud rush for 12 yards to the MTL54, 1ST DOWN MTL (Louis-P
+               Leclerc).
+  M 1-10 M54   Dimitri Morand pass incomplete to Antoine Chabot (Der. Achaempong).
+  M 2-10 M54   Dimitri Morand pass complete to Mathieu Renault for 8 yards to the CONC48
+               (Louis-P Leclerc).
+  M 3-2  C48   Ryth-J. Giraud rush for 2 yards to the CONC46, 1ST DOWN MTL (Sam.
+               Brodrique;Wael Nasri).
+  M 1-10 C46   PENALTY MTL UR 15 yards to the MTL49.
+  M 1-25 M49   1st and 10.
+  M 1-10 M49   Dimitri Morand pass incomplete to Antoine Mailhot.
+  M 2-10 M49   Dimitri Morand pass intercepted by Khadeem Pierre at the CONC51, Khadeem
+               Pierre return 9 yards to the MTL50, PENALTY CONC illegal block 10 yards
+               to the CONC50, 1st and 10, CONC ball on CONC50.
+--------------- 7 plays, 14 yards, TOP 03:23 ---------------
+
+      C 1-10 C50   CONCORDIA drive start at 10:27 (2nd).
+      C 1-10 C50   Glody Musangu rush for 3 yards to the CONC53 (Jean-P Levesque).
+      C 2-7  C53   Adam Vance pass complete to James Tyrrell for 6 yards to the MTL51.
+      C 3-1  M51   Oliver St-Onge rush for no gain to the MTL51 (Marc-A. Dequoy).
+--------------- 3 plays, 9 yards, TOP 02:27 ---------------
+
+  M 1-10 M51   MONTREAL drive start at 08:00 (2nd).
+  M 1-10 M51   Ryth-J. Giraud rush for 6 yards to the CONC53 (Maleek Desir).
+  M 2-4  C53   Dimitri Morand rush for 5 yards to the CONC48, 1ST DOWN MTL,
+               out-of-bounds.
+  M 1-10 C48   Kevin Dubois rush for loss of 2 yards to the CONC50 (Maleek Desir).
+  M 2-12 C50   Dimitri Morand pass incomplete to Kevin Kaya, dropped pass.
+  M 3-12 C50   L-P. Simoneau punt 34 yards to the CONC16, PENALTY MTL NY 5 yards to the
+               CONC21, 1st and 10, CONC ball on CONC21.
+--------------- 4 plays, 9 yards, TOP 02:25 ---------------
+
+      C 1-10 C21   CONCORDIA drive start at 05:35 (2nd).
+      C 1-10 C21   Glody Musangu rush for loss of 2 yards to the CONC19 (Felix Pelletier).
+      C 2-12 C19   Adam Vance rush for 1 yard to the CONC20 (Felix Pelletier;Samuel Rossi).
+      C 3-11 C20   Andrew Stevens punt 43 yards to the MTL47, Ryth-J. Giraud return 5 yards
+                   to the MTL52, PENALTY MTL illegal block 10 yards to the MTL42, 1st
+                   and 10, MTL ball on MTL42.
+--------------- 2 plays, minus 1 yards, TOP 01:54 ---------------
+
+  M 1-10 M42   MONTREAL drive start at 03:41 (2nd).
+  M 1-10 M42   Dimitri Morand pass complete to Antoine Chabot for 12 yards to the MTL54,
+               1ST DOWN MTL (John Boachie).
+  M 1-10 M54   Kevin Dubois rush for 14 yards to the CONC42, 1ST DOWN MTL (Michael
+               Asibuo).
+  M 1-10 C42   PENALTY MTL holding 10 yards to the CONC52.
+  M 1-20 C52   Dimitri Morand pass complete to Kevin Dubois for 7 yards to the CONC45
+               (Louis-P Leclerc).
+  M 2-13 C45   Timeout Montreal, clock 02:13.
+  M 2-13 C45   Dimitri Morand pass incomplete to Carl Chabot (Der. Achaempong).
+  M 3-13 C45   L-P. Simoneau punt 38 yards to the CONC7, James Tyrrell return 3 yards to
+               the CONC10, out-of-bounds.
+--------------- 4 plays, 23 yards, TOP 01:40 ---------------
+
+      C 1-10 C10   CONCORDIA drive start at 02:01 (2nd).
+      C 1-10 C10   Adam Vance pass incomplete to James Tyrrell.
+      C 2-10 C10   Adam Vance sacked for loss of 5 yards to the CONC5 (Felix Pelletier).
+      C 3-15 C05   Team rush for loss of 5 yards to the CONC0, Team safety, clock 01:43.
+
+                                    =======================
+                                    MONTREAL 9, CONCORDIA 3
+                                    =======================
+
+      C 1-G  C35   Change of possession, MTL ball on MTL35, 1st and 10.
+--------------- 3 plays, minus 10 yards, TOP 00:18 ---------------
+
+  M 1-10 M35   MONTREAL drive start at 01:43 (2nd).
+  M 1-10 M35   Dimitri Morand pass complete to Mathieu Renault for 8 yards to the MTL43.
+  M 2-2  M43   Ryth-J. Giraud rush for 7 yards to the MTL50, 1ST DOWN MTL (Khadeem
+               Pierre;Jahmensky Lubin).
+  M 1-10 M50   Dimitri Morand pass incomplete to Tristan Fiske-C.
+  M 2-10 M50   Dimitri Morand pass incomplete to Carl Chabot.
+  M 3-10 M50   L-P. Simoneau punt 13 yards to the CONC47, PENALTY MTL NY 5 yards to the
+               CONC52, 1st and 10, CONC ball on CONC52.
+--------------- 4 plays, 15 yards, TOP 00:40 ---------------
+
+      C 1-10 C52   CONCORDIA drive start at 01:03 (2nd).
+      C 1-10 C52   Adam Vance pass complete to Jeremy Murphy for 13 yards to the MTL45,
+                   1ST DOWN CONC (Br. Harelimana).
+      C 1-10 M45   Glody Musangu rush for 3 yards to the MTL42 (Samuel Rossi;Br.
+                   Harelimana).
+      C 2-7  M42   Adam Vance pass complete to Sam Nadon for 11 yards to the MTL31, 1ST
+                   DOWN CONC (Redha Kramdi).
+      C 1-10 M31   Adam Vance sacked for loss of 5 yards to the MTL36 (Samuel Rossi),
+                   PENALTY MTL pass interference 10 yards to the MTL21, 1ST DOWN
+                   CONC, NO PLAY.
+      C 1-10 M21   Adam Vance pass complete to Jeremy Murphy for 6 yards to the MTL15
+                   (Jean-S. Belisle).
+      C 2-4  M15   Adam Vance pass intercepted by Jean-P Levesque at the MTL15, Jean-P
+                   Levesque return 6 yards to the MTL21 (Alexander Hall).
+--------------- 6 plays, 43 yards, TOP 01:03 ---------------
+
+  M 1-10 M21   MONTREAL drive start at 00:00 (2nd).
+  M 1-10 M21   End of half, clock 00:00.
+
+                                    ==END OF 2nd QUARTER===
+                                    MONTREAL 9, CONCORDIA 3
+                                    =======================
+
+Play-by-Play Summary (3rd quarter)
+
+  M 1-10 M21   Start of 3rd quarter, clock 15:00, CONC ball on CONC45.
+
+                   Andrew Stevens kickoff 52 yards to the MTL13, Marc-A. Dequoy return 37
+                   yards to the MTL50 (Andrew Stevens).
+  M 1-10 M50   MONTREAL drive start at 14:50 (3rd).
+  M 1-10 M50   Dimitri Morand pass incomplete to Carl Chabot.
+  M 2-10 M50   Dimitri Morand sacked for loss of 7 yards to the MTL43 (John Boachie;Maleek
+               Desir).
+  M 3-17 M43   L-P. Simoneau punt 31 yards to the CONC36, James Tyrrell return 2 yards to
+               the CONC38 (Redha Kramdi).
+--------------- 2 plays, minus 7 yards, TOP 01:26 ---------------
+
+      C 1-10 C38   CONCORDIA drive start at 13:24 (3rd).
+      C 1-10 C38   Glody Musangu rush for 5 yards to the CONC43 (Br. Harelimana).
+      C 2-5  C43   Adam Vance pass complete to Sam Nadon for 4 yards to the CONC47 (Redha
+                   Kramdi).
+      C 3-1  C47   Glody Musangu rush for 5 yards to the CONC52, 1ST DOWN CONC (Br.
+                   Harelimana).
+      C 1-10 C52   Adam Vance pass incomplete to James Tyrrell.
+      C 2-10 C52   Adam Vance pass complete to Sam Nadon for 11 yards to the MTL47, 1ST
+                   DOWN CONC.
+      C 1-10 M47   Adam Vance pass incomplete to James Tyrrell, dropped pass.
+      C 2-10 M47   Adam Vance pass incomplete to Jacob Salvail.
+      C 3-10 M47   Andrew Stevens punt 45 yards to the MTL2, out-of-bounds.
+--------------- 7 plays, 25 yards, TOP 04:14 ---------------
+
+  M 1-10 M02   MONTREAL drive start at 09:10 (3rd).
+  M 1-10 M02   Dimitri Morand pass complete to Kevin Kaya for 8 yards to the MTL10 (Michael
+               Asibuo;Zamaad Gambari).
+  M 2-2  M10   Dimitri Morand rush for 3 yards to the MTL13, 1ST DOWN MTL (Sam.
+               Brodrique).
+  M 1-10 M13   Ryth-J. Giraud rush for 7 yards to the MTL20 (Sam. Brodrique;Zamaad
+               Gambari).
+  M 2-3  M20   Ryth-J. Giraud rush for 5 yards to the MTL25, PENALTY MTL holding 10
+               yards to the MTL10, NO PLAY.
+  M 2-13 M10   Dimitri Morand pass complete to Ryth-J. Giraud for 9 yards to the MTL19
+               (Jahmensky Lubin).
+  M 3-4  M19   L-P. Simoneau punt 43 yards to the CONC48, PENALTY CONC illegal block 10
+               yards to the CONC38, 1st and 10, CONC ball on CONC38.
+--------------- 4 plays, 17 yards, TOP 03:20 ---------------
+
+      C 1-10 C38   CONCORDIA drive start at 05:50 (3rd).
+      C 1-10 C38   Glody Musangu rush for 3 yards to the CONC41 (Samuel Rossi).
+      C 2-7  C41   Adam Vance pass complete to Joel Slavik for 6 yards to the CONC47
+                   (Marc-A. Dequoy).
+      C 3-1  C47   Glody Musangu rush for 4 yards to the CONC51, 1ST DOWN CONC
+                   (Bruno Lagace).
+      C 1-10 C51   Adam Vance pass incomplete to Sam Nadon, dropped pass.
+      C 2-10 C51   Adam Vance pass incomplete to Jacob Salvail.
+      C 3-10 C51   Andrew Stevens punt 32 yards to the MTL27, out-of-bounds.
+--------------- 5 plays, 13 yards, TOP 02:39 ---------------
+
+  M 1-10 M27   MONTREAL drive start at 03:11 (3rd).
+  M 1-10 M27   Dimitri Morand pass complete to Carl Chabot for 2 yards to the MTL29 (Jersey
+               Henry;Michael Asibuo).
+  M 2-8  M29   Dimitri Morand rush for 6 yards to the MTL35.
+  M 3-2  M35   L-P. Simoneau punt 47 yards to the CONC28, Kevin Foster V. return 0 yards to
+               the CONC28 (Marc-A. Dequoy).
+--------------- 2 plays, 8 yards, TOP 01:22 ---------------
+
+      C 1-10 C28   CONCORDIA drive start at 01:49 (3rd).
+      C 1-10 C28   Kevin Foster V. rush for 8 yards to the CONC36 (T-O. Copeland).
+      C 2-2  C36   Glody Musangu rush for loss of 1 yard to the CONC35 (Felix Pelletier).
+      C 3-3  C35   Andrew Stevens punt 44 yards to the MTL31, Ryth-J. Giraud return 12
+                   yards to the MTL43 (Louis-P Leclerc).
+--------------- 2 plays, 7 yards, TOP 01:30 ---------------
+
+  M 1-10 M43   MONTREAL drive start at 00:19 (3rd).
+  M 1-10 M43   Ryth-J. Giraud rush for 14 yards to the CONC53, 1ST DOWN MTL (David
+               Germain;Mason Paleck), PENALTY CONC offside declined.
+
+                                    ==END OF 3rd QUARTER===
+                                    MONTREAL 9, CONCORDIA 3
+                                    =======================
+
+Play-by-Play Summary (4th quarter)
+
+  M 1-10 C53   Start of 4th quarter, clock 15:00.
+  M 1-10 C53   Dimitri Morand pass incomplete to Tristan Fiske-C, dropped pass.
+  M 2-10 C53   Dimitri Morand pass incomplete to Antoine Chabot (Der. Achaempong).
+  M 3-10 C53   L-P. Simoneau punt 43 yards to the CONC10, Kevin Foster V. return 1 yards to
+               the CONC11 (C.-Adler Joseph).
+--------------- 3 plays, 14 yards, TOP 01:28 ---------------
+
+      C 1-10 C11   CONCORDIA drive start at 13:51 (4th).
+      C 1-10 C11   Glody Musangu rush for 6 yards to the CONC17 (Jean-P Levesque).
+      C 2-4  C17   Adam Vance pass complete to James Tyrrell for 8 yards to the CONC25,
+                   1ST DOWN CONC, out-of-bounds.
+      C 1-10 C25   Adam Vance pass incomplete to Glody Musangu, dropped pass.
+      C 2-10 C25   Adam Vance pass complete to Sam Nadon for 10 yards to the CONC35, 1ST
+                   DOWN CONC.
+      C 1-10 C35   Adam Vance pass incomplete to Sam Nadon, dropped pass.
+      C 2-10 C35   PENALTY CONC illegal procedure 5 yards to the CONC30.
+      C 2-15 C30   Adam Vance sacked for loss of 5 yards to the CONC25 (Jean-P Levesque).
+      C 3-20 C25   Andrew Stevens punt 37 yards to the MTL48, Ryth-J. Giraud return 6 yards
+                   to the MTL54 (Wael Nasri).
+--------------- 6 plays, 14 yards, TOP 03:38 ---------------
+
+  M 1-10 M54   MONTREAL drive start at 10:13 (4th).
+  M 1-10 M54   Ryth-J. Giraud rush for 3 yards to the CONC53 (Nic. Diaquoi-R.), PENALTY
+               MTL holding 10 yards to the MTL44, NO PLAY.
+  M 1-20 M44   Ryth-J. Giraud rush for 10 yards to the MTL54 (Khadeem Pierre;Sam.
+               Brodrique).
+  M 2-10 M54   Dimitri Morand pass incomplete to Kevin Kaya (Jersey Henry).
+  M 3-10 M54   L-P. Simoneau punt 50 yards to the CONC6, Kevin Foster V. return 1 yards to
+               the CONC7 (Redha Kramdi).
+--------------- 2 plays, 0 yards, TOP 01:48 ---------------
+
+      C 1-10 C07   CONCORDIA drive start at 08:25 (4th).
+      C 1-10 C07   Adam Vance pass complete to James Tyrrell for 12 yards to the CONC19,
+                   1ST DOWN CONC (Jean-S. Belisle).
+      C 1-10 C19   Jeremy Murphy rush for 2 yards to the CONC21 (Redha Kramdi).
+      C 2-8  C21   Adam Vance pass incomplete to Sam Nadon, PENALTY MTL pass
+                   interference 9 yards to the CONC30, 1ST DOWN CONC, NO PLAY.
+      C 1-10 C30   Adam Vance pass complete to Glody Musangu for 3 yards to the CONC33
+                   (Jean-S. Belisle).
+      C 2-7  C33   Adam Vance pass incomplete to Glody Musangu.
+      C 3-7  C33   Andrew Stevens punt 33 yards to the MTL44, Ryth-J. Giraud return 1 yards
+                   to the MTL45, PENALTY MTL holding 10 yards to the MTL35, 1st and 10,
+                   MTL ball on MTL50, PENALTY CONC UR 0 yards to the MTL50, 1st and 10,
+                   MTL ball on MTL50.
+--------------- 5 plays, 26 yards, TOP 02:33 ---------------
+
+  M 1-10 M50   MONTREAL drive start at 05:52 (4th).
+  M 1-10 M50   Ryth-J. Giraud rush for 6 yards to the CONC54 (Sam. Brodrique).
+  M 2-4  C54   Dimitri Morand pass incomplete to Kevin Kaya (Sam. Brodrique), PENALTY
+               CONC OC 10 yards to the CONC44, 1ST DOWN MTL.
+  M 1-10 C44   1st and 10.
+  M 1-10 C44   PENALTY CONC offside 5 yards to the CONC39.
+  M 1-5  C39   Ryth-J. Giraud rush for 14 yards to the CONC25, 1ST DOWN MTL (Zamaad
+               Gambari).
+  M 1-10 C25   Timeout Concordia, clock 04:11.
+  M 1-10 C25   Simon Laurin rush for loss of 15 yards to the CONC40.
+               High snap leads to a team loss
+  M 2-25 C40   Dimitri Morand pass complete to Mathieu Renault for 15 yards to the CONC25
+               (Zamaad Gambari).
+  M 3-10 C25   L-P. Simoneau field goal attempt from 32 SINGLE, touchback, clock 02:41.
+                   Field goal attempt is wide left
+--------------- 6 plays, 35 yards, TOP 04:05 ---------------
+
+
+                                    ========================
+                                    MONTREAL 10, CONCORDIA 3
+                                    ========================
+
+      C 1-10 C35   Kevin Foster V. rush for 3 yards to the CONC38 (Samuel Rossi).
+      C 2-7  C38   Adam Vance rush for loss of 4 yards to the CONC34.
+                   QB mishandles snap leading to team loss
+      C 3-11 C34   Andrew Stevens punt 43 yards to the MTL33, Ryth-J. Giraud return 13
+                   yards to the MTL46, PENALTY CONC face mask 15 yards to the CONC49,
+                   1st and 10, MTL ball on CONC34, PENALTY CONC PO 0 yards to the
+                   CONC34, 1st and 10, MTL ball on CONC34.
+--------------- 2 plays, minus 1 yards, TOP 00:00 ---------------
+
+  M 1-10 C34   MONTREAL drive start at 01:47 (4th).
+  M 1-10 C34   Simon Laurin rush for loss of 21 yards to the 55 yardline.
+               High snap from center leads to team loss
+  M 2-31 M55   Ryth-J. Giraud rush for 5 yards to the CONC50 (Jahmensky Lubin).
+  M 3-26 C50   Timeout Montreal, clock 00:58.
+  M 3-26 C50   L-P. Simoneau punt 42 yards to the CONC8, Kevin Foster V. return 2 yards to
+               the CONC10 (Redha Kramdi).
+--------------- 2 plays, minus 16 yards, TOP 00:58 ---------------
+
+      C 1-10 C10   CONCORDIA drive start at 00:49 (4th).
+      C 1-10 C10   Adam Vance pass complete to James Tyrrell for 11 yards to the CONC21,
+                   1ST DOWN CONC.
+      C 1-10 C21   Adam Vance pass complete to James Tyrrell for 15 yards to the CONC36,
+                   1ST DOWN CONC, out-of-bounds.
+      C 1-10 C36   Adam Vance sacked for loss of 5 yards to the CONC31 (Benoit Marion).
+      C 2-15 C31   Adam Vance pass complete to James Tyrrell for 7 yards to the CONC38,
+                   out-of-bounds (Jean-S. Belisle).
+      C 3-8  C38   Adam Vance pass incomplete.
+--------------- 5 plays, 28 yards, TOP 00:32 ---------------
+
+  M 1-10 C38   MONTREAL drive start at 00:17 (4th).
+  M 1-10 C38   Team rush for loss of 2 yards to the CONC40.
+  M 2-12 C40   Team rush for loss of 1 yard to the CONC41.
+  M 3-13 C41   End of game, clock 00:00.
+--------------- 2 plays, minus 3 yards, TOP 00:17 ---------------
+
+                                    =======FINAL SCORE======
+                                    MONTREAL 10, CONCORDIA 3
+                                    ========================
+
+
+
+Play Breakdown Summary
+
+
+                         Play Breakdown Summary (Final)
+                        Football universitaire RSEQ 2019
+               Montreal vs Concordia (2019-08-23 at Montreal, Qc)
+
+
+
+
+Montreal                               Concordia
+
+Down               RUN PASS  Total     Down               RUN PASS  Total
+
+OVERALL..........   27   26     53     OVERALL..........   23   37     60
+1ST DOWN.........   17   11     28     1ST DOWN.........   13   18     31
+2ND DOWN-SHORT...    4    1      5     2ND DOWN-SHORT...    2    1      3
+2ND DOWN-MIDDLE..    2    2      4     2ND DOWN-MIDDLE..    1    3      4
+2ND DOWN-LONG....    3   12     15     2ND DOWN-LONG....    2   13     15
+3RD DOWN-SHORT...    1    0      1     3RD DOWN-SHORT...    4    0      4
+3RD DOWN-MIDDLE..    0    0      0     3RD DOWN-MIDDLE..    0    1      1
+3RD DOWN-LONG....    0    0      0     3RD DOWN-LONG....    1    1      2
+4TH DOWN.........    0    0      0     4TH DOWN.........    0    0      0
+
+Montreal                               Concordia
+
+Formation        RUN PASS  Total       Formation        RUN PASS  Total
+
+...............   27   26     53       ...............   23   37     60
+
+
+
+
+Play Breakdown
+
+
+                                                       Play Breakdown (Final)
+                                                  Football universitaire RSEQ 2019
+                                         Montreal vs Concordia (2019-08-23 at Montreal, Qc)
+
+                                                   Montreal (Sorted by Play type)
+
+1ST DOWN RUN  (17 RUN, 11 PASS)                                  1ST DOWN PASS
+1-10 C43 #20   5 [    ]                                          1-10 M27 #3  to #13     2 [    ]
+1-10 C48 #22  -2 [    ]                                          1-10 M50 #3  to #13     - [    ]
+1-10 M54 #22  14 [    ]                                          1-10 M02 #3  to #20     8 [    ]
+1-5  C05 #22   4 [    ]                                          1-20 C52 #3  to #22     7 [    ]
+1-5  C11 #22   1 [    ]                                          1-10 M42 #3  to #38    12 [    ]
+1-5  C39 #29  14 [    ]                                          1-10 M54 #3  to #38     - [    ]
+1-10 M50 #29   6 [    ]                                          1-10 C52 #3  to #38     7 [    ]
+1-10 M35 #29   7 [    ]                                          1-10 M50 #3  to #73     - [    ]
+1-10 M13 #29   7 [    ]                                          1-10 C53 #3  to #73     - [    ]
+1-10 M43 #29  14 [    ]                                          1-10 M49 #3  to #81     - [    ]
+1-10 M43 #29  -3 [    ]                                          1-10 M35 #3  to #84     8 [    ]
+1-10 M51 #29   6 [    ]
+1-20 M44 #29  10 [    ]
+1-10 M51 #29   2 [    ]
+1-10 C34 #55 -21 [    ]
+1-10 C25 #55 -15 [    ]
+1-10 C38 #TM  -2 [    ]
+
+2ND-SHORT RUN  (4 RUN, 1 PASS)                                   2ND-SHORT PASS
+2-2  M43 #29   7 [    ]                                          2-3  C45 #3  to #20     - [    ]
+2-3  M42 #29  12 [    ]
+2-2  M10 #3    3 [    ]
+2-1  C01 #3    1 [    ]
+
+2ND-MIDDLE RUN  (2 RUN, 2 PASS)                                  2ND-MIDDLE PASS
+2-4  C10 #22   5 [    ]                                          2-4  C54 #3  to #20     - [    ]
+2-4  C53 #3    5 [    ]                                          2-5  C38 #3  to #29    22 [    ]
+
+2ND-LONG RUN  (3 RUN, 12 PASS)                                   2ND-LONG PASS
+2-31 M55 #29   5 [    ]                                          2-10 M50 #3  to #13     - [    ]
+2-8  M29 #3    6 [    ]                                          2-13 C45 #3  to #13     - [    ]
+2-12 C40 #TM  -1 [    ]                                          2-10 M54 #3  to #20     - [    ]
+                                                                 2-12 C50 #3  to #20     - [    ]
+                                                                 2-13 M10 #3  to #29     9 [    ]
+                                                                 2-13 M40 #3  to #29    18 [    ]
+                                                                 2-10 C53 #3  to #38     - [    ]
+                                                                 2-10 M49 #3  to #5    INT [    ]
+                                                                 2-10 M54 #3  to #84     8 [    ]
+                                                                 2-25 C40 #3  to #84    15 [    ]
+                                                                 2-8  M53 #3  to #84    14 [    ]
+                                                                 2-10 M50 #3  to #    SACK [    ]
+
+3RD-SHORT RUN  (1 RUN, 0 PASS)                                   3RD-SHORT PASS
+3-2  C48 #29   2 [    ]
+
+3RD-MIDDLE RUN  (0 RUN, 0 PASS)                                  3RD-MIDDLE PASS
+
+3RD-LONG RUN  (0 RUN, 0 PASS)                                    3RD-LONG PASS
+
+4TH DOWN RUN  (0 RUN, 0 PASS)                                    4TH DOWN PASS
+
+Play Breakdown
+
+
+                                                       Play Breakdown (Final)
+                                                  Football universitaire RSEQ 2019
+                                         Montreal vs Concordia (2019-08-23 at Montreal, Qc)
+
+                                                  Concordia (Sorted by Play type)
+
+1ST DOWN RUN  (13 RUN, 18 PASS)                                  1ST DOWN PASS
+1-10 C19 #15   2 [    ]                                          1-10 C21 #4  to #15    29 [    ]
+1-10 C38 #20   5 [    ]                                          1-10 C52 #4  to #15    13 [    ]
+1-10 C19 #20  11 [    ]                                          1-10 C30 #4  to #15    43 [    ]
+1-10 M37 #20   2 [    ]                                          1-10 M21 #4  to #15     6 [    ]
+1-10 C11 #20   6 [    ]                                          1-10 C30 #4  to #20     3 [    ]
+1-10 C21 #20  -2 [    ]                                          1-10 C25 #4  to #20     - [    ]
+1-10 M45 #20   3 [    ]                                          1-5  M21 #4  to #20     - [    ]
+1-10 C50 #20   7 [    ]                                          1-10 C07 #4  to #7     12 [    ]
+1-10 C50 #20   3 [    ]                                          1-10 C21 #4  to #7     15 [    ]
+1-10 C38 #20   3 [    ]                                          1-10 C10 #4  to #7     11 [    ]
+1-10 C28 #24   8 [    ]                                          1-10 C10 #4  to #7      - [    ]
+1-10 C35 #24   3 [    ]                                          1-10 C07 #4  to #7     12 [    ]
+1-10 M49 #4    9 [    ]                                          1-10 C52 #4  to #7      - [    ]
+                                                                 1-10 M47 #4  to #7      - [    ]
+                                                                 1-10 C51 #4  to #86     - [    ]
+                                                                 1-10 C35 #4  to #86     - [    ]
+                                                                 1-10 C24 #4  to #    SACK [    ]
+                                                                 1-10 C36 #4  to #    SACK [    ]
+
+2ND-SHORT RUN  (2 RUN, 1 PASS)                                   2ND-SHORT PASS
+2-1  M40 #20  -3 [    ]                                          2-3  M53 #4  to #15     4 [    ]
+2-2  C36 #20  -1 [    ]
+
+2ND-MIDDLE RUN  (1 RUN, 3 PASS)                                  2ND-MIDDLE PASS
+2-5  M21 #20   1 [    ]                                          2-4  M15 #4  to #45   INT [    ]
+                                                                 2-4  C17 #4  to #7      8 [    ]
+                                                                 2-5  C43 #4  to #86     4 [    ]
+
+2ND-LONG RUN  (2 RUN, 13 PASS)                                   2ND-LONG PASS
+2-7  C38 #4   -4 [    ]                                          2-10 M47 #4  to #13     - [    ]
+2-12 C19 #4    1 [    ]                                          2-10 C51 #4  to #13     - [    ]
+                                                                 2-7  C33 #4  to #20     - [    ]
+                                                                 2-15 C31 #4  to #7      7 [    ]
+                                                                 2-7  C53 #4  to #7      6 [    ]
+                                                                 2-10 C25 #4  to #86    10 [    ]
+                                                                 2-14 C20 #4  to #86     7 [    ]
+                                                                 2-10 C52 #4  to #86    11 [    ]
+                                                                 2-7  M42 #4  to #86    11 [    ]
+                                                                 2-7  C41 #4  to #89     6 [    ]
+                                                                 2-8  M35 #4  to #89     7 [    ]
+                                                                 2-15 C30 #4  to #    SACK [    ]
+                                                                 2-10 C10 #4  to #    SACK [    ]
+
+3RD-SHORT RUN  (4 RUN, 0 PASS)                                   3RD-SHORT PASS
+3-1  C47 #20   5 [    ]
+3-1  C47 #20   4 [    ]
+3-1  M28 #9    2 [    ]
+3-1  M51 #9    0 [    ]
+
+3RD-MIDDLE RUN  (0 RUN, 1 PASS)                                  3RD-MIDDLE PASS
+                                                                 3-4  M43 #4  to #7      - [    ]
+
+3RD-LONG RUN  (1 RUN, 1 PASS)                                    3RD-LONG PASS
+3-15 C05 #TM  -5 [    ]                                          3-8  C38 #4  to #       - [    ]
+
+4TH DOWN RUN  (0 RUN, 0 PASS)                                    4TH DOWN PASS
+
+
+
+
