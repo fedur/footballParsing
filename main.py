@@ -5,6 +5,7 @@ import re
 #to-do list, handle quarters
 
 PLAY_NB = 1
+PLAYS = []
 def getAbsFieldPos(teamWithBall,side,yd):
     if side == teamWithBall:
         return yd
@@ -12,7 +13,7 @@ def getAbsFieldPos(teamWithBall,side,yd):
     else:
         return 55+55-yd
 
-def processHeader(header,play, t1, t2):
+def processHeader(header, t1, t2):
     #format of the header: S 1-10 S39
     #res[0] = Team with ball
     #res[1] = Down and distance
@@ -22,6 +23,7 @@ def processHeader(header,play, t1, t2):
     teamWithBall = res[0]
     downAndDistance = res[1].split('-')
     fieldPos = res[2]
+    play={}
     if t1[0] == teamWithBall:
         play["off_team"] = t1
         play["def_team"] = t2
@@ -38,6 +40,7 @@ def processHeader(header,play, t1, t2):
         fieldPos[0],
         (int(fieldPos[1] + fieldPos[2]))
         )
+    return play
 
 def processPassPlay(text,play):
     #format: QBName pass complete|incomplete to RECEIVER for x yards
@@ -70,22 +73,28 @@ def processPassPlay(text,play):
     else:
         return False
 
-def processRunPlay(text,play):
-    match=re.match("(.*?)\srush\sfor\s((?:loss\sof\s)?\d+)",text, re.DOTALL)
+def processRunAndSackPlay(text,play):
+    match=re.match("(.*?)\s(rush|sacked)\sfor\s((?:loss\sof\s)?\d+)",text, re.DOTALL)
     if match != None:
-        #1: Name of player, 2: (loss of) x
-        play["run_by"]=match.group(1).strip()
-        if match.group(2)[0] == 'l':
-            yd=re.match(".*(\d+)",match.group(2))
+        #1: Name of player, 2:sacked|rush 3: (loss of) x
+        if match.group(2) == 'sacked':
+            play["play_type"]="pass"
+            play["passed_by"]=match.group(1).strip()
+            play["play_result"]="sack"
+
+        elif match.group(2) == 'rush':
+            play["play_type"]="run"
+            play["play_result"]="run"
+            play["target"]=match.group(1).strip()
+
+        if match.group(3)[0] == 'l':
+            yd=re.match(".*(\d+)",match.group(3))
             if yd != None:
                 val=int(yd.group(1))
                 val=val*-1
                 play["gain"]=val
         else:
-            play["gain"]=int(match.group(2))
-
-        print(play["run_by"] + ", "+str(play["gain"]))
-        
+            play["gain"]=int(match.group(3))
     return True
 
 def processPlay(text,play):
@@ -94,11 +103,12 @@ def processPlay(text,play):
         else "false"
 
     if not processPassPlay(text,play):
-        if not processRunPlay(text,play):
+        if not processRunAndSackPlay(text,play):
             print("meh")
 
 def processDrive(text, t1,t2):
     global PLAY_NB
+    global PLAYS
     text=text.strip()
     teams = "(?:" + t1[0] + "|" + t2[0] + ")"
     header="("+teams+"\s+[1-3]-\d+\s+"+teams+"\d+)"
@@ -107,15 +117,15 @@ def processDrive(text, t1,t2):
     #we only care about plays 
     # so we remove the first thing before the first header split
     del res[0]
-    play={}
     for i in range(len(res)-1):
         if i % 2 == 0:
-            play.clear()
+            play=processHeader(res[i],t1,t2)
             play["play_nb"]= PLAY_NB
             PLAY_NB = PLAY_NB + 1
-            processHeader(res[i],play,t1,t2)
+            print(play)
+            PLAYS.append(play)
         else:
-            processPlay(res[i],play)
+            ll="rr"
 
 def main(file):
     f = open(file, 'r')
@@ -153,6 +163,7 @@ def main(file):
     plays=[]
     for drive in drives:
         processDrive(drive,T1,T2)
+    print(PLAYS)
 
 if __name__ == "__main__":
     main(sys.argv[1])
