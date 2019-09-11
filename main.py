@@ -18,12 +18,12 @@ def processHeader(header, t1, t2):
     #res[0] = Team with ball
     #res[1] = Down and distance
     #res[2] = Field position
+    play={}
     rgx = re.compile("\s+")
     res = rgx.split(header)
     teamWithBall = res[0]
     downAndDistance = res[1].split('-')
     fieldPos = res[2]
-    play={}
     if t1[0] == teamWithBall:
         play["off_team"] = t1
         play["def_team"] = t2
@@ -42,7 +42,8 @@ def processHeader(header, t1, t2):
         )
     return play
 
-def processPassPlay(text,play):
+def processPassPlay(text):
+    play = {}
     #format: QBName pass complete|incomplete to RECEIVER for x yards
     match=re.search("\spass\s(complete|incomplete)\sto\s(.*)",text, re.DOTALL)
     if match != None:
@@ -58,7 +59,7 @@ def processPassPlay(text,play):
                     re.DOTALL)
             if match2 != None:
                 #1: Receiver, 2: Gain, 3: FieldPos, 4: Tackler(s)
-                play["thrown_to"]=match2.group(1)
+                play["target"]=match2.group(1)
                 play["gain"]=match2.group(2)
                 # Some tackler names overlap on multiple lines...
                 play["tackled_by"]=re.sub("\n\s*"," ",match2.group(4))
@@ -68,12 +69,13 @@ def processPassPlay(text,play):
             receiver = re.match("(.*?\s.*?)[\s\.,]",
                 match.groups()[1])
             if (receiver != None):
-                play["thrown_to"]=receiver.groups()[0]
-        return True
+                play["target"]=receiver.groups()[0]
+        return play
     else:
-        return False
+        return None
 
-def processRunAndSackPlay(text,play):
+def processRunAndSackPlay(text):
+    play = {}
     match=re.match("(.*?)\s(rush|sacked)\sfor\s((?:loss\sof\s)?\d+)",text, re.DOTALL)
     if match != None:
         #1: Name of player, 2:sacked|rush 3: (loss of) x
@@ -95,16 +97,23 @@ def processRunAndSackPlay(text,play):
                 play["gain"]=val
         else:
             play["gain"]=int(match.group(3))
-    return True
+        return play
+    else:
+        return None
 
-def processPlay(text,play):
+def processPlay(text):
+    play=processPassPlay(text)
+    if play == None:
+        play = processRunAndSackPlay(text)
+        if play == None:
+            play = {}
+
     play["penalty_on_play"] = "true" \
         if re.search("PENALTY",text, re.DOTALL) \
         else "false"
 
-    if not processPassPlay(text,play):
-        if not processRunAndSackPlay(text,play):
-            print("meh")
+    return play
+
 
 def processDrive(text, t1,t2):
     global PLAY_NB
@@ -122,10 +131,13 @@ def processDrive(text, t1,t2):
             play=processHeader(res[i],t1,t2)
             play["play_nb"]= PLAY_NB
             PLAY_NB = PLAY_NB + 1
-            print(play)
             PLAYS.append(play)
         else:
-            ll="rr"
+            play=processPlay(res[i])
+            for key in play.keys():
+                PLAYS[-1][key]=play[key]
+
+
 
 def main(file):
     f = open(file, 'r')
@@ -163,6 +175,7 @@ def main(file):
     plays=[]
     for drive in drives:
         processDrive(drive,T1,T2)
+
     print(PLAYS)
 
 if __name__ == "__main__":
