@@ -1,0 +1,1206 @@
+Montreal vs Laval (2018-10-07)
+Scoring Summary
+Team Statistics
+Individual Statistics
+Drive Chart
+Defensive Statistics
+Game Participation
+Box Score
+Play-by-Play
+Play breakdown
+Scoring Summary
+
+
+                            Scoring Summary (Final)
+                        Football universitaire RSEQ 2018
+               #4 Montreal vs #2 Laval (2018-10-07 at Quebec, Qc)
+
+                         Montreal (4-2) vs. Laval (6-0)
+Date: 2018-10-07    Site: Quebec, Qc            Stadium: Stade Telus
+Attendance: 18234
+
+Score by Quarters     1  2  3  4 OT [ 5 ]   Score
+-----------------    -- -- -- -- -- [ - ]   -----
+Montreal............  2  3  7  3  0 [ 0 ]  - 15
+Laval...............  3  9  0  3  3 [ 3 ]  - 18
+
+
+
+Scoring Summary:
+1st 06:17 MTL - Team safety
+                                                                               MTL 2 - LAV 0
+    12:31 LAV - David Cote 42 yd field goal
+                                                  9 plays, 43 yards, TOP 3:54, MTL 2 - LAV 3
+2nd 03:04 LAV - Benoit Gagnon-B 14 yd pass from Hugo Richard (David Cote kick)
+                                                10 plays, 85 yards, TOP 4:07, MTL 2 - LAV 10
+    04:41 LAV - TEAM safety
+                                                                              MTL 2 - LAV 12
+    14:19 MTL - L-P. Simoneau 27 yd field goal
+                                                 5 plays, 20 yards, TOP 0:31, MTL 5 - LAV 12
+3rd 14:49 MTL - Marc-A. Dequoy 54 yd fumble recovery (L-P. Simoneau kick)
+                                                                             MTL 12 - LAV 12
+4th 12:21 LAV - David Cote 20 yd field goal
+                                                 3 plays, 9 yards, TOP 1:16, MTL 12 - LAV 15
+    13:02 MTL - L-P. Simoneau 49 yd field goal
+                                                3 plays, -5 yards, TOP 0:24, MTL 15 - LAV 15
+OT  00:00 LAV - David Cote 12 yd field goal
+                                                4 plays, 30 yards, TOP 0:00, MTL 15 - LAV 18
+
+
+
+Kickoff time: 13:08     End of Game: 16:22     Total elapsed time: 3:14
+Officials: Referee: WALTER BERRY; Umpire: ROBERT MOQUIN; Linesman: DANIEL ROY;
+Line judge: CHARLES LAMPRON; Back judge: KEVIN RIOPEL; Field judge: STEPHANE ROY;
+Side judge: ERIC GASCON; Scorer: ESTHER TURGEON;
+Temperature: 10 C      Wind: 17KM ENE  Weather: OVERCAST
+
+
+
+
+Team Statistics
+
+
+                            Team Statistics (Final)
+                        Football universitaire RSEQ 2018
+               #4 Montreal vs #2 Laval (2018-10-07 at Quebec, Qc)
+
+                                    MTL      LAV
+
+FIRST DOWNS...................       12       21
+  Rushing.....................        3       10
+  Passing.....................        9        9
+  Penalty.....................        0        2
+NET YARDS RUSHING.............       42      131
+  Rushing Attempts............       15       25
+  Average Per Rush............      2.8      5.2
+  Yards Gained Rushing........       49      134
+  Yards Lost Rushing..........        7        3
+NET YARDS PASSING.............      170      312
+  Completions-Attempts-Int....  17-36-1  26-39-2
+  Average Per Attempt.........      4.7      8.0
+  Average Per Completion......     10.0     12.0
+TEAM LOSSES...................      -46      -31
+TOTAL OFFENSE YARDS...........      166      412
+  Total offense plays.........       57       66
+  Average Gain Per Play.......      2.9      6.2
+Fumbles: Number-Lost..........      2-0      1-1
+Penalties: Number-Yards.......     9-65    14-95
+PUNTS-YARDS...................   12-444    9-330
+  Average Yards Per Punt......     37.0     36.7
+  Net Yards Per Punt..........     35.2     33.2
+  Inside 20...................        2        2
+  50+ Yards...................        2        0
+  Touchbacks..................        0        0
+  Fair catch..................        0        0
+KICKOFFS-YARDS................    3-159    3-159
+  Average Yards Per Kickoff...     53.0     53.0
+  Net Yards Per Kickoff.......     38.0     22.7
+  Touchbacks..................        0        0
+Punt returns: Number-Yards-TD.   7-31-0   5-21-0
+  Average Per Return..........      4.4      4.2
+Kickoff returns: Number-Yds-TD   3-91-0   3-45-0
+  Average Per Return..........     30.3     15.0
+Interceptions: Number-Yds-TD..    2-0-0    1-0-0
+Fumble Returns: Number-Yds-TD.   1-54-1    0-0-0
+Possession Time...............    27:46    47:14
+  1st Quarter.................     6:16     8:44
+  2nd Quarter.................     5:57     9:03
+  3rd Quarter.................     8:11     6:49
+  4th Quarter.................     7:22     7:38
+  OT  Quarter.................     0:00    15:00
+Third-Down Conversions........   1 of 3   0 of 1
+Red-Zone Scores-Chances.......      1-2      3-4
+Sacks By: Number-Yards........     2-10     6-37
+PAT Kicks.....................      1-1      1-1
+Field Goals...................      2-2      3-3
+
+
+
+Individual Statistics
+
+
+                                 Individual Statistics (Final)
+                                Football universitaire RSEQ 2018
+                       #4 Montreal vs #2 Laval (2018-10-07 at Quebec, Qc)
+
+
+Montreal
+
+
+Rushing         No Gain Loss  Net TD Lg  Avg
+--------------------------------------------
+Asnnel Robo      9   33    2   31  0 11  3.4
+Dimitri Morand   3   11    0   11  0  6  3.7
+Ryth-J. Giraud   3    5    5    0  0  3  0.0
+Totals...       15   49    7   42  0 11  2.8
+
+Passing         Att-Cmp-Int Yds TD Long Sack
+--------------------------------------------
+Dimitri Morand    36-17-1   170  0   23    6
+Totals...         36-17-1   170  0   23    6
+
+Receiving        No.  Yds   TD Long
+-----------------------------------
+Regis Cibasu       7   74    0   23
+Fred. Thompson     4   41    0   20
+Tristan Fiske-C    3   23    0    8
+Raphael Major-D    1   12    0   12
+Antoine Mailhot    1   10    0   10
+Asnnel Robo        1    8    0    8
+Totals...         17  168    0   23
+
+Punting          No.  Yds   Avg Long In20   TB
+----------------------------------------------
+L-P. Simoneau     12  444  37.0   56    2    0
+Totals...         12  444  37.0   56    2    0
+
+                  Punts   Kickoffs  Intercept
+All Returns     No.Yds.Lg No.Yds.Lg No.Yds.Lg
+---------------------------------------------
+Raphael Major-D  0   0  0  1   8  8  0   0  0
+Francois Hamel   2  11  9  0   0  0  0   0  0
+Marc-A. Dequoy   0   0  0  0   0  0  1   0  0
+Kerfalla Exume   0   0  0  0   0  0  1   0  0
+Ryth-J. Giraud   5  20 10  2  83 60  0   0  0
+Totals...        7  31 10  3  91 60  2   0  0
+
+Field goal attempts
+----------------------------------------
+L-P. Simoneau   2nd 00:41  27 yds - Good
+L-P. Simoneau   4th 01:58  49 yds - Good
+
+Kickoffs         No.  Yds  TB  OB   Avg
+---------------------------------------
+L-P. Simoneau      3  159   0   0  53.0
+
+
+
+Laval
+
+
+Rushing         No Gain Loss  Net TD Lg  Avg
+--------------------------------------------
+Hugo Richard    12   61    2   59  0 17  4.9
+Christop. Amoah  7   46    0   46  0 28  6.6
+V Breton Robert  6   27    1   26  0 13  4.3
+Totals...       25  134    3  131  0 28  5.2
+
+Passing         Att-Cmp-Int Yds TD Long Sack
+--------------------------------------------
+Hugo Richard      39-26-2   312  1   64    2
+Totals...         39-26-2   312  1   64    2
+
+Receiving        No.  Yds   TD Long
+-----------------------------------
+J Breton Robert    6   39    0    9
+V. F-Mombleau      5   57    0   23
+Math Robitaille    3   82    0   64
+V Breton Robert    3   45    0   19
+Benoit Gagnon-B    3   29    1   14
+Marc-Ant. Pivin    3   28    0   11
+Alex. Savard       1   16    0   16
+Christop. Amoah    1    8    0    8
+Felix Garand-G.    1    8    0    8
+Totals...         26  312    1   64
+
+Punting          No.  Yds   Avg Long In20   TB
+----------------------------------------------
+Dom. Levesque      9  330  36.7   48    2    0
+Totals...          9  330  36.7   48    2    0
+
+                  Punts   Kickoffs  Intercept
+All Returns     No.Yds.Lg No.Yds.Lg No.Yds.Lg
+---------------------------------------------
+Math Robitaille  0   0  0  1   4  4  0   0  0
+Ant. D-Leclerc   5  21 10  0   0  0  0   0  0
+A. M. Murura     0   0  0  2  41 21  0   0  0
+Emile Chenevert  0   0  0  0   0  0  1   0  0
+Totals...        5  21 10  3  45 21  1   0  0
+
+Field goal attempts
+----------------------------------------
+David Cote      1st 02:29  42 yds - Good
+David Cote      4th 02:39  20 yds - Good
+David Cote      OT  15:00  12 yds - Good
+
+Kickoffs         No.  Yds  TB  OB   Avg
+---------------------------------------
+David Cote         3  159   0   0  53.0
+
+
+
+FUMBLES: Montreal-Dimitri Morand 2-0. Laval-V. F-Mombleau 1-1.
+
+
+Drive Chart
+
+
+                                      Drive Chart (Final)
+                                Football universitaire RSEQ 2018
+                       #4 Montreal vs #2 Laval (2018-10-07 at Quebec, Qc)
+
+
+                 Drive Started             Drive Ended             Consumed
+Team     Qtr Spot Time   Obtained      Spot Time   How Lost      Pl-Yds   TOP 
+-------------------------------------------------------------------------------------
+MTL      1st M28  12:42  Punt          M46  10:12  Punt           4-18   2:30
+MTL      1st M35  08:43  Possession    M53  06:23  Punt           4-18   2:20
+MTL      1st M35  02:29  Possession    M39  01:03  Punt           2-4    1:26
+MTL      2nd M12  11:50  Kickoff       M00  10:19 *SAFETY         3--12  1:31
+MTL      2nd M42  09:18  Punt          M35  07:46  Punt           2--7   1:32
+MTL      2nd M14  04:11  Punt          M29  01:54  Punt           4-15   2:17
+MTL      2nd L40  01:12  Punt          L20  00:41 *FIELD GOAL     5-20   0:31#
+MTL      3rd M31  14:51  Kickoff       L45  12:52  Punt           4-34   1:59
+MTL      3rd L42  12:13  Interception  L40  10:58  Punt           2-2    1:15
+MTL      3rd M45  09:39  Punt          L54  06:41  Punt           5-11   2:58
+MTL      3rd M21  04:20  Punt          M26  02:30  Punt           2-5    1:50
+MTL      3rd L54  00:11  Fumble        L54  00:11 *TOUCHDOWN      0-0    0:00
+MTL      4th M36  14:20  Punt          M49  12:22  Punt           4-13   1:58
+MTL      4th M20  09:22  Interception  M33  06:38  Punt           4-13   2:44
+MTL      4th M14  05:05  Punt          M09  03:55  Interception   2--5   1:10
+MTL      4th L36  02:22  Kickoff       L41  01:58 *FIELD GOAL     3--5   0:24
+MTL      4th M50  00:55  Punt          L53  00:06  Punt           4-7    0:49
+MTL      OT  L35  15:00  Possession    L10  15:00  Downs          6-25   0:00#
+
+LAV      1st L30  15:00  Kickoff       L48  12:42  Punt           4-18   2:18
+LAV      1st L30  10:12  Punt          L00  08:43 *SAFETY         3--30  1:29
+LAV      1st L32  06:23  Punt          M35  02:29 *FIELD GOAL     9-43   3:54
+LAV      1st L25  01:03  Punt          M00  11:56 *TOUCHDOWN     10-85   4:07#
+LAV      2nd L35  10:19  Possession    L44  09:18  Punt           2-9    1:01
+LAV      2nd L31  07:46  Punt          M41  04:11  Punt           6-38   3:35
+LAV      2nd L08  01:54  Punt          L23  01:12  Punt           4-15   0:42
+LAV      2nd L35  00:41  Possession    L33  00:00  End of half    2--2   0:41
+LAV      3rd L16  12:52  Punt          L22  12:13  Interception   2-6    0:39
+LAV      3rd L05  10:58  Punt          L23  09:39  Punt           3-18   1:19
+LAV      3rd L36  06:41  Punt          L53  04:20  Punt           4-17   2:21
+LAV      3rd L25  02:30  Punt          L54  00:11  Fumble         4-29   2:19
+LAV      3rd L31  00:03  Kickoff       L39  14:20  Punt           2-8    0:43
+LAV      4th L31  12:22  Punt          M11  09:22  Interception   5-68   3:00#
+LAV      4th L33  06:38  Punt          L54  05:05  Punt           3-21   1:33
+LAV      4th M22  03:55  Interception  M13  02:39 *FIELD GOAL     3-9    1:16#
+LAV      4th L20  01:50  Kickoff       L38  00:55  Punt           3-18   0:55
+LAV      4th L52  00:06  Punt          L49  00:00  End of half    1--3  15:06
+LAV      OT  L10  00:00  Downs         L10  15:00  Possession     0-0    0:00
+LAV      OT  M35  15:00  Possession    M05  15:00 *FIELD GOAL     4-30   0:00#
+
+MTL                       1st   2nd   3rd   4th     1st   2nd       
+                          Qtr   Qtr   Qtr   Qtr    Half  Half  Total
+---------------------------------------------------------------------------
+Time of possession       06:16 05:57 08:11 07:22   12:13 15:33 27:46
+3rd Down Conversions      0/0   0/1   1/1   0/0     0/1   1/1   1/3
+Avg Field Position        M32   M34   M41   M38     M33   M39   M37
+4th Down Conversions      0/0   0/0   0/0   0/0     0/0   0/0   0/0
+
+LAV                       1st   2nd   3rd   4th     1st   2nd       
+                          Qtr   Qtr   Qtr   Qtr    Half  Half  Total
+---------------------------------------------------------------------------
+Time of possession       08:44 09:03 06:49 07:38   17:47 14:27 47:14
+3rd Down Conversions      0/1   0/0   0/0   0/0     0/1   0/0   0/1
+Avg Field Position        L29   L27   L22   L44     L28   L33   L31
+4th Down Conversions      0/0   0/0   0/0   0/0     0/0   0/0   0/0
+
+
+                                    Drive Chart (By Quarter)
+
+                 Drive Started             Drive Ended             Consumed
+Team     Qtr Spot Time   Obtained      Spot Time   How Lost      Pl-Yds   TOP 
+-------------------------------------------------------------------------------------
+LAV      1st L30  15:00  Kickoff       L48  12:42  Punt           4-18   2:18
+MTL      1st M28  12:42  Punt          M46  10:12  Punt           4-18   2:30
+LAV      1st L30  10:12  Punt          L00  08:43 *SAFETY         3--30  1:29
+MTL      1st M35  08:43  Possession    M53  06:23  Punt           4-18   2:20
+LAV      1st L32  06:23  Punt          M35  02:29 *FIELD GOAL     9-43   3:54
+MTL      1st M35  02:29  Possession    M39  01:03  Punt           2-4    1:26
+LAV      1st L25  01:03  Punt          M00  11:56 *TOUCHDOWN     10-85   4:07#
+
+MTL      2nd M12  11:50  Kickoff       M00  10:19 *SAFETY         3--12  1:31
+LAV      2nd L35  10:19  Possession    L44  09:18  Punt           2-9    1:01
+MTL      2nd M42  09:18  Punt          M35  07:46  Punt           2--7   1:32
+LAV      2nd L31  07:46  Punt          M41  04:11  Punt           6-38   3:35
+MTL      2nd M14  04:11  Punt          M29  01:54  Punt           4-15   2:17
+LAV      2nd L08  01:54  Punt          L23  01:12  Punt           4-15   0:42
+MTL      2nd L40  01:12  Punt          L20  00:41 *FIELD GOAL     5-20   0:31#
+LAV      2nd L35  00:41  Possession    L33  00:00  End of half    2--2   0:41
+
+MTL      3rd M31  14:51  Kickoff       L45  12:52  Punt           4-34   1:59
+LAV      3rd L16  12:52  Punt          L22  12:13  Interception   2-6    0:39
+MTL      3rd L42  12:13  Interception  L40  10:58  Punt           2-2    1:15
+LAV      3rd L05  10:58  Punt          L23  09:39  Punt           3-18   1:19
+MTL      3rd M45  09:39  Punt          L54  06:41  Punt           5-11   2:58
+LAV      3rd L36  06:41  Punt          L53  04:20  Punt           4-17   2:21
+MTL      3rd M21  04:20  Punt          M26  02:30  Punt           2-5    1:50
+LAV      3rd L25  02:30  Punt          L54  00:11  Fumble         4-29   2:19
+MTL      3rd L54  00:11  Fumble        L54  00:11 *TOUCHDOWN      0-0    0:00
+LAV      3rd L31  00:03  Kickoff       L39  14:20  Punt           2-8    0:43
+
+MTL      4th M36  14:20  Punt          M49  12:22  Punt           4-13   1:58
+LAV      4th L31  12:22  Punt          M11  09:22  Interception   5-68   3:00#
+MTL      4th M20  09:22  Interception  M33  06:38  Punt           4-13   2:44
+LAV      4th L33  06:38  Punt          L54  05:05  Punt           3-21   1:33
+MTL      4th M14  05:05  Punt          M09  03:55  Interception   2--5   1:10
+LAV      4th M22  03:55  Interception  M13  02:39 *FIELD GOAL     3-9    1:16#
+MTL      4th L36  02:22  Kickoff       L41  01:58 *FIELD GOAL     3--5   0:24
+LAV      4th L20  01:50  Kickoff       L38  00:55  Punt           3-18   0:55
+MTL      4th M50  00:55  Punt          L53  00:06  Punt           4-7    0:49
+LAV      4th L52  00:06  Punt          L49  00:00  End of half    1--3  15:06
+
+MTL      OT  L35  15:00  Possession    L10  15:00  Downs          6-25   0:00#
+LAV      OT  L10  00:00  Downs         L10  15:00  Possession     0-0    0:00
+LAV      OT  M35  15:00  Possession    M05  15:00 *FIELD GOAL     4-30   0:00#
+
+
+
+Defensive Statistics
+
+
+                                Defensive Statistics (Final)
+                              Football universitaire RSEQ 2018
+                     #4 Montreal vs #2 Laval (2018-10-07 at Quebec, Qc)
+
+
+Montreal            
+## Player          Solo  Ast  Tot  TFL/Yds  FF FR-Yd Intc BrUp Blkd Sack/Yds QH
+--------------------------------------------------------------------------------------
+7  Br. Harelimana    11    3 12.5     .     .   .     .      .    .      .     .
+45 Jean-P Levesque    6    .  6.0     .     .   .     .      .    .      .     .
+1  Kramdi Redha       5    1  5.5  1.0/1    1   .     .      .    .      .     .
+9  Jean-S. Belisle    4    1  4.5     .     .   .     .      1    .      .     .
+15 Francois Hamel     3    3  4.5     .     .   .     .      .    .      .     .
+21 T-O. Copeland      4    .  4.0     .     .   .     .      .    .      .     .
+94 Phil. Lemieux-C    2    4  4.0     .     .   .     .      .    .      .     .
+95 Karl Prevost       3    1  3.5  2.0/5    .   .     .      .    .   1.0/3    .
+40 Samuel Rossi       2    .  2.0  1.0/7    .   .     .      .    .   1.0/7    .
+24 Marc-A. Dequoy     2    .  2.0     .     .  1-54  1-0     1    .      .     .
+13 Kerfalla Exume     1    2  2.0     .     .   .    1-0     .    .      .     .
+31 Bruno Lagace       1    1  1.5     .     .   .     .      .    .      .     .
+26 William Perrier    1    .  1.0     .     .   .     .      .    .      .     .
+22 Asnnel Robo        1    .  1.0     .     .   .     .      .    .      .     .
+44 Benoit Marion      .    2  1.0     .     .   .     .      .    .      .     .
+TM Team               .    .   .      .     .   .     .      .    .      .     .
+
+Laval               
+## Player          Solo  Ast  Tot  TFL/Yds  FF FR-Yd Intc BrUp Blkd Sack/Yds QH
+--------------------------------------------------------------------------------------
+28 Dan Basambombo     4    5  6.5     .     .   .     .      .    .      .     .
+2  Adam Auclair       5    2  6.0     .     .   .     .      .    .      .     .
+9  Mathieu Betts      5    1  5.5  5.0/32   1   .     .      1    .   4.0/27   .
+22 Maxym Lavallee     5    .  5.0     .     .   .     .      3    .      .     .
+21 Kean Harelimana    3    .  3.0  1.0/2    .   .     .      1    .      .     .
+7  M-A. Bellefroid    1    3  2.5  1.0/5    .   .     .      .    .   1.0/5    .
+26 Emile Chenevert    2    .  2.0     .     .   .    1-0     .    .      .     .
+24 Kevin McGee        2    .  2.0  1.0/5    1   .     .      .    .   1.0/5    .
+46 Vince. Levesque    2    .  2.0     .     .   .     .      1    .      .     .
+29 Nicolas Viens      2    .  2.0     .     .   .     .      1    .      .     .
+92 V. Desjardins      1    2  2.0     .     .   .     .      .    .      .     .
+18 Frederic Gagnon    1    .  1.0     .     .   .     .      .    .      .     .
+15 A. M. Murura       1    .  1.0     .     .   .     .      .    .      .     .
+45 Frederic Pongo     1    .  1.0     .     .   .     .      .    .      .     .
+1  Zack Fitzgerald    1    .  1.0     .     .   .     .      2    .      .     .
+99 Sam. Maranda-B.    .    1  0.5     .     .   .     .      .    .      .     .
+TM TEAM               .    .   .      .     .   .     .      .    .      .     .
+
+
+
+Participation Report
+
+
+                          Participation Report (Final)
+                        Football universitaire RSEQ 2018
+               #4 Montreal vs #2 Laval (2018-10-07 at Quebec, Qc)
+
+
+ Montreal: 1-Kramdi Redha, 3-Regis Cibasu, 7-Br. Harelimana, 9-Jean-S. Belisle, 13-Kerfalla Exume, 14-Gab Archambault,
+ 15-Francois Hamel, 16-Dimitri Morand, 17-Alexandre Hardy, 18-L-P. Simoneau, 19-J. Le Guehennec, 21-T-O. Copeland, 22-Asnnel Robo,
+ 24-Marc-A. Dequoy, 26-William Perrier, 27-J-C. Dazouloute, 28-Maxime Joubert, 29-Ryth-J. Giraud, 31-Bruno Lagace,
+ 34-Hugo Hurtubise, 35-Antoine Demers, 36-Claude-A Joseph, 37-Michael Arpin, 40-Samuel Rossi, 41-Samuel Chenier, 44-Benoit Marion,
+ 45-Jean-P Levesque, 47-Sean Cote, 50-P-G. Germain, 53-Felix Pelletier, 54-Marc-Ant. Lemay, 55-Simon Laurin, 57-Alex. Dansereau,
+ 60-David Sevigny, 61-Jean-M Derosier, 64-Gust. Sylvestre, 66-Pier-O. Lestage, 67-Franc. Bessette, 73-Tristan Fiske-C,
+ 81-Antoine Mailhot, 83-Raphael Major-D, 84-Fred. Thompson, 86-Nicolas Dionne, 88-L-M. Normandin, 89-Julien Melanson,
+ 94-Phil. Lemieux-C, 95-Karl Prevost, 97-Momar Mbaye.
+
+ Laval: 1-Zack Fitzgerald, 2-Adam Auclair, 3-Carl Achy, 4-Hugo Richard, 5-Soul. Karamoko, 7-M-A. Bellefroid, 8-Samuel Chenard,
+ 9-Mathieu Betts, 10-Marc-Ant. Pivin, 11-Benoit Gagnon-B, 13-Felix Garand-G., 14-David Cote, 15-A. M. Murura, 18-Frederic Gagnon,
+ 20-Christop. Amoah, 21-Kean Harelimana, 22-Maxym Lavallee, 23-L Poirier-Viens, 24-Kevin McGee, 25-Dom. Levesque,
+ 26-Emile Chenevert, 27-V Breton Robert, 28-Dan Basambombo, 29-Nicolas Viens, 30-Alexis Cote, 32-Phil Lessard-V, 34-Alec Poirier,
+ 35-Jacob Veilleux, 44-Ch. Gagne, 45-Frederic Pongo, 46-Vince. Levesque, 60-Nic. Thibodeau, 63-Nicolas Guay, 65-Samuel Lefebvre,
+ 66-Phil Robitaille, 67-Ketel Asse, 74-Andy Genois, 76-Sam. Thomassin, 80-Ant. D-Leclerc, 82-Math Robitaille, 84-Etienne Moisan,
+ 85-Alex. Savard, 86-V. F-Mombleau, 87-J Breton Robert, 90-Alex. Gagnon, 92-V. Desjardins, 94-Jonathan Ple, 99-Sam. Maranda-B..
+
+
+
+Box Score
+
+                               Box Score (Final)
+               #4 Montreal vs #2 Laval (2018-10-07 at Quebec, Qc)
+
+Score by Quarters     1  2  3  4 OT [ 5 ]   Score
+-----------------    -- -- -- -- -- [ - ]   -----
+Montreal............  2  3  7  3  0 [ 0 ]  - 15       Record: (4-2)
+Laval...............  3  9  0  3  3 [ 3 ]  - 18       Record: (6-0)
+
+
+
+Scoring Summary:
+1st 06:17 MTL - Team safety, , MTL 2 - LAV 0
+    12:31 LAV - David Cote 42 yd field goal, 9-43 3:54, MTL 2 - LAV 3
+2nd 03:04 LAV - Benoit Gagnon-B 14 yd pass from Hugo Richard (David Cote kick), 10-85 4:07, MTL 2 - LAV 10
+    04:41 LAV - TEAM safety, , MTL 2 - LAV 12
+    14:19 MTL - L-P. Simoneau 27 yd field goal, 5-20 0:31, MTL 5 - LAV 12
+3rd 14:49 MTL - Marc-A. Dequoy 54 yd fumble recovery (L-P. Simoneau kick), , MTL 12 - LAV 12
+4th 12:21 LAV - David Cote 20 yd field goal, 3-9 1:16, MTL 12 - LAV 15
+    13:02 MTL - L-P. Simoneau 49 yd field goal, 3--5 0:24, MTL 15 - LAV 15
+OT  00:00 LAV - David Cote 12 yd field goal, 4-30 0:00, MTL 15 - LAV 18
+
+
+
+                                    MTL      LAV
+FIRST DOWNS...................       12       21
+RUSHES-YARDS (NET)............    15-42   25-131
+PASSING YDS (NET).............      170      312
+Passes Att-Comp-Int...........  36-17-1  39-26-2
+TOTAL OFFENSE PLAYS-YARDS.....   57-166   66-412
+Fumble Returns-Yards..........     1-54      0-0
+Punt Returns-Yards............     7-31     5-21
+Kickoff Returns-Yards.........     3-91     3-45
+Interception Returns-Yards....      2-0      1-0
+Punts (Number-Avg)............  12-37.0   9-36.7
+Fumbles-Lost..................      2-0      1-1
+Penalties-Yards...............     9-65    14-95
+Possession Time...............    27:46    47:14
+Third-Down Conversions........   1 of 3   0 of 1
+Red-Zone Scores-Chances.......      1-2      3-4
+Sacks By: Number-Yards........     2-10     6-37
+
+
+RUSHING: Montreal-Asnnel Robo 9-31; Dimitri Morand 3-11; Ryth-J. Giraud
+3-0. Laval-Hugo Richard 12-59; Christop. Amoah 7-46; V Breton Robert 6-26.
+
+PASSING: Montreal-Dimitri Morand 17-36-1-170. Laval-Hugo Richard
+26-39-2-312.
+
+RECEIVING: Montreal-Regis Cibasu 7-74; Fred. Thompson 4-41; Tristan
+Fiske-C 3-23; Raphael Major-D 1-12; Antoine Mailhot 1-10; Asnnel Robo 1-8.
+Laval-J Breton Robert 6-39; V. F-Mombleau 5-57; Math Robitaille 3-82; V Breton
+Robert 3-45; Benoit Gagnon-B 3-29; Marc-Ant. Pivin 3-28; Alex. Savard 1-16;
+Christop. Amoah 1-8; Felix Garand-G. 1-8.
+
+INTERCEPTIONS: Montreal-Kerfalla Exume 1-0; Marc-A. Dequoy 1-0.
+Laval-Emile Chenevert 1-0.
+
+FUMBLES: Montreal-Dimitri Morand 2-0. Laval-V. F-Mombleau 1-1.
+
+Stadium: Stade Telus           Attendance: 18234
+Kickoff time: 13:08     End of Game: 16:22     Total elapsed time: 3:14
+Officials: Referee: WALTER BERRY; Umpire: ROBERT MOQUIN; Linesman: DANIEL ROY;
+Line judge: CHARLES LAMPRON; Back judge: KEVIN RIOPEL; Field judge: STEPHANE ROY;
+Side judge: ERIC GASCON; Scorer: ESTHER TURGEON;
+Temperature: 10 C      Wind: 17KM ENE  Weather: OVERCAST
+
+
+
+               #4 Montreal vs #2 Laval (2018-10-07 at Quebec, Qc)
+
+SACKS (UA-A): Montreal-Karl Prevost 1-0; Samuel Rossi 1-0. Laval-Mathieu
+Betts 4-0; M-A. Bellefroid 1-0; Kevin McGee 1-0.
+
+TACKLES (UA-A): Montreal-Br. Harelimana 11-3; Jean-P Levesque 6-0; Kramdi
+Redha 5-1; Jean-S. Belisle 4-1; Francois Hamel 3-3; T-O. Copeland 4-0; Phil.
+Lemieux-C 2-4; Karl Prevost 3-1; Marc-A. Dequoy 2-0; Samuel Rossi 2-0; Kerfalla
+Exume 1-2; Bruno Lagace 1-1; Asnnel Robo 1-0; William Perrier 1-0; Benoit Marion
+0-2. Laval-Dan Basambombo 4-5; Adam Auclair 5-2; Mathieu Betts 5-1; Maxym
+Lavallee 5-0; Kean Harelimana 3-0; M-A. Bellefroid 1-3; Emile Chenevert 2-0;
+Kevin McGee 2-0; Vince. Levesque 2-0; Nicolas Viens 2-0; V. Desjardins 1-2;
+Frederic Pongo 1-0; Zack Fitzgerald 1-0; Frederic Gagnon 1-0; A. M. Murura 1-0;
+Sam. Maranda-B. 0-1.
+
+
+
+Player participation:
+
+
+Montreal: 1-Kramdi Redha, 3-Regis Cibasu, 7-Br. Harelimana, 9-Jean-S. Belisle, 13-Kerfalla Exume, 14-Gab Archambault,
+15-Francois Hamel, 16-Dimitri Morand, 17-Alexandre Hardy, 18-L-P. Simoneau, 19-J. Le Guehennec, 21-T-O. Copeland, 22-Asnnel Robo,
+24-Marc-A. Dequoy, 26-William Perrier, 27-J-C. Dazouloute, 28-Maxime Joubert, 29-Ryth-J. Giraud, 31-Bruno Lagace,
+34-Hugo Hurtubise, 35-Antoine Demers, 36-Claude-A Joseph, 37-Michael Arpin, 40-Samuel Rossi, 41-Samuel Chenier, 44-Benoit Marion,
+45-Jean-P Levesque, 47-Sean Cote, 50-P-G. Germain, 53-Felix Pelletier, 54-Marc-Ant. Lemay, 55-Simon Laurin, 57-Alex. Dansereau,
+60-David Sevigny, 61-Jean-M Derosier, 64-Gust. Sylvestre, 66-Pier-O. Lestage, 67-Franc. Bessette, 73-Tristan Fiske-C,
+81-Antoine Mailhot, 83-Raphael Major-D, 84-Fred. Thompson, 86-Nicolas Dionne, 88-L-M. Normandin, 89-Julien Melanson,
+94-Phil. Lemieux-C, 95-Karl Prevost, 97-Momar Mbaye.
+
+Laval: 1-Zack Fitzgerald, 2-Adam Auclair, 3-Carl Achy, 4-Hugo Richard, 5-Soul. Karamoko, 7-M-A. Bellefroid, 8-Samuel Chenard,
+9-Mathieu Betts, 10-Marc-Ant. Pivin, 11-Benoit Gagnon-B, 13-Felix Garand-G., 14-David Cote, 15-A. M. Murura, 18-Frederic Gagnon,
+20-Christop. Amoah, 21-Kean Harelimana, 22-Maxym Lavallee, 23-L Poirier-Viens, 24-Kevin McGee, 25-Dom. Levesque,
+26-Emile Chenevert, 27-V Breton Robert, 28-Dan Basambombo, 29-Nicolas Viens, 30-Alexis Cote, 32-Phil Lessard-V, 34-Alec Poirier,
+35-Jacob Veilleux, 44-Ch. Gagne, 45-Frederic Pongo, 46-Vince. Levesque, 60-Nic. Thibodeau, 63-Nicolas Guay, 65-Samuel Lefebvre,
+66-Phil Robitaille, 67-Ketel Asse, 74-Andy Genois, 76-Sam. Thomassin, 80-Ant. D-Leclerc, 82-Math Robitaille, 84-Etienne Moisan,
+85-Alex. Savard, 86-V. F-Mombleau, 87-J Breton Robert, 90-Alex. Gagnon, 92-V. Desjardins, 94-Jonathan Ple, 99-Sam. Maranda-B..
+
+
+
+
+Play-by-Play Summary
+
+
+                               Play-by-Play Summary (1st quarter)
+                                Football universitaire RSEQ 2018
+                       #4 Montreal vs #2 Laval (2018-10-07 at Quebec, Qc)
+
+  M 1-10 M45   MTL ball on MTL45.
+
+               L-P. Simoneau kickoff 39 yards to the LAV26, Math Robitaille return 4 yards
+               to the LAV30 (Marc-A. Dequoy).
+      L 1-10 L30   Christop. Amoah rush for 3 yards to the LAV33 (Jean-P Levesque).
+      L 2-7  L33   Hugo Richard pass complete to V. F-Mombleau for 10 yards to the LAV43,
+                   1ST DOWN LAV (Jean-S. Belisle).
+      L 1-10 L43   Hugo Richard rush for loss of 2 yards to the LAV41 (Karl Prevost).
+      L 2-12 L41   Hugo Richard rush for 7 yards to the LAV48.
+      L 3-5  L48   Dom. Levesque punt 34 yards to the MTL28, out-of-bounds.
+--------------- 4 plays, 18 yards, TOP 02:18 ---------------
+
+  M 1-10 M28   MONTREAL drive start at 12:42 (1st).
+  M 1-10 M28   Asnnel Robo rush for no gain to the MTL28 (Dan Basambombo).
+  M 2-10 M28   Dimitri Morand pass complete to Fred. Thompson for 13 yards to the MTL41,
+               1ST DOWN MTL (Nicolas Viens).
+  M 1-10 M41   Dimitri Morand pass complete to Regis Cibasu for 5 yards to the MTL46 (Emile
+               Chenevert).
+  M 2-5  M46   Dimitri Morand pass incomplete to Asnnel Robo.
+  M 3-5  M46   L-P. Simoneau punt 39 yards to the LAV25, Ant. D-Leclerc return 5 yards to
+               the LAV30 (Kerfalla Exume;Bruno Lagace).
+--------------- 4 plays, 18 yards, TOP 02:30 ---------------
+
+      L 1-10 L30   LAVAL drive start at 10:12 (1st).
+      L 1-10 L30   PENALTY LAV illegal procedure 5 yards to the LAV25.
+      L 1-15 L25   Hugo Richard rush for 5 yards to the LAV30 (Br. Harelimana), PENALTY
+                   LAV holding 10 yards to the LAV15, NO PLAY.
+      L 1-25 L15   PENALTY LAV illegal procedure 5 yards to the LAV10.
+      L 1-30 L10   Hugo Richard pass complete to Alex. Savard for 16 yards to the LAV26,
+                   out-of-bounds (Br. Harelimana).
+      L 2-14 L26   Hugo Richard sacked for loss of 7 yards to the LAV19 (Samuel Rossi).
+      L 3-21 L19   TEAM rush for loss of 19 yards to the LAV0, Team safety, clock 08:43.
+
+                                     ======================
+                                      MONTREAL 2, LAVAL 0
+                                     ======================
+
+      L 1-G  L35   Change of possession, MTL ball on MTL35, 1st and 10.
+--------------- 3 plays, minus 30 yards, TOP 01:29 ---------------
+
+  M 1-10 M35   MONTREAL drive start at 08:43 (1st).
+  M 1-10 M35   Dimitri Morand pass incomplete to Regis Cibasu, PENALTY MTL offside
+               declined.
+  M 2-10 M35   Dimitri Morand pass complete to Fred. Thompson for 20 yards to the 55
+               yardline, 1ST DOWN MTL (Maxym Lavallee).
+  M 1-10 M55   Asnnel Robo rush for loss of 2 yards to the MTL53 (Kean Harelimana).
+  M 2-12 M53   Dimitri Morand pass incomplete to Regis Cibasu.
+  M 3-12 M53   L-P. Simoneau punt 37 yards to the LAV20, Ant. D-Leclerc return 7 yards to
+               the LAV27 (Asnnel Robo), PENALTY MTL NY 5 yards to the LAV32, 1st and
+               10, LAV ball on LAV32.
+--------------- 4 plays, 18 yards, TOP 02:20 ---------------
+
+      L 1-10 L32   LAVAL drive start at 06:23 (1st).
+      L 1-10 L32   Hugo Richard pass complete to J Breton Robert for 7 yards to the LAV39.
+      L 2-3  L39   Hugo Richard pass complete to Marc-Ant. Pivin for 11 yards to the LAV50,
+                   1ST DOWN LAV (Br. Harelimana).
+      L 1-10 L50   Hugo Richard pass complete to Benoit Gagnon-B for 9 yards to the MTL51
+                   (Kerfalla Exume).
+      L 2-1  M51   Hugo Richard rush for 3 yards to the MTL48, 1ST DOWN LAV (Karl
+                   Prevost;Phil. Lemieux-C).
+      L 1-10 M48   Hugo Richard rush for 7 yards to the MTL41 (Br. Harelimana).
+      L 2-3  M41   Hugo Richard rush for 6 yards to the MTL35, 1ST DOWN LAV,
+                   out-of-bounds (T-O. Copeland).
+      L 1-10 M35   Hugo Richard pass incomplete to J Breton Robert.
+      L 2-10 M35   Hugo Richard pass incomplete to V. F-Mombleau.
+      L 3-10 M35   David Cote field goal attempt from 42 GOOD, clock 02:29.
+
+                                     ======================
+                                      MONTREAL 2, LAVAL 3
+                                     ======================
+
+      L 1-G  L45   Change of possession, MTL ball on MTL35, 1st and 10.
+--------------- 9 plays, 43 yards, TOP 03:54 ---------------
+
+  M 1-10 M35   MONTREAL drive start at 02:29 (1st).
+  M 1-10 M35   Asnnel Robo rush for 4 yards to the MTL39 (Adam Auclair;Dan Basambombo).
+  M 2-6  M39   Dimitri Morand pass incomplete (Mathieu Betts).
+  M 3-6  M39   L-P. Simoneau punt 46 yards to the LAV25, Ant. D-Leclerc return 10 yards to
+               the LAV35, PENALTY LAV holding 10 yards to the LAV25, 1st and 10, LAV
+               ball on LAV25.
+--------------- 2 plays, 4 yards, TOP 01:26 ---------------
+
+      L 1-10 L25   LAVAL drive start at 01:03 (1st).
+      L 1-10 L25   Hugo Richard pass complete to Math Robitaille for 9 yards to the LAV34
+                   (Jean-P Levesque).
+      L 2-1  L34   Hugo Richard rush for 1 yard to the LAV35, 1ST DOWN LAV (Jean-P
+                   Levesque).
+      L 1-10 L35   Hugo Richard pass complete to J Breton Robert for 7 yards to the LAV42
+                   (Phil. Lemieux-C).
+
+                                     ==END OF 1st QUARTER==
+                                      MONTREAL 2, LAVAL 3
+                                     ======================
+
+Play-by-Play Summary (2nd quarter)
+
+      L 2-3  L42   Start of 2nd quarter, clock 15:00.
+      L 2-3  L42   Hugo Richard pass complete to V Breton Robert for 19 yards to the MTL49,
+                   1ST DOWN LAV, out-of-bounds (Francois Hamel).
+      L 1-10 M49   Hugo Richard pass incomplete to Math Robitaille.
+      L 2-10 M49   Hugo Richard pass complete to V. F-Mombleau for 23 yards to the MTL26,
+                   1ST DOWN LAV (Francois Hamel;Br. Harelimana).
+      L 1-10 M26   Hugo Richard pass complete to J Breton Robert for 6 yards to the MTL20
+                   (Marc-A. Dequoy).
+      L 2-4  M20   Hugo Richard pass complete to Benoit Gagnon-B for 6 yards to the MTL14,
+                   1ST DOWN LAV (Francois Hamel;Kerfalla Exume).
+      L 1-10 M14   Hugo Richard pass incomplete.
+      L 2-10 M14   Hugo Richard pass complete to Benoit Gagnon-B for 14 yards to the MTL0,
+                   1ST DOWN LAV, TOUCHDOWN, clock 11:56, David Cote kick attempt good.
+
+                                     ======================
+                                      MONTREAL 2, LAVAL 10
+                                     ======================
+
+--------------- 10 plays, 85 yards, TOP 04:07 ---------------
+
+                   David Cote kickoff 51 yards to the MTL14, Raphael Major-D return 8 yards
+                   to the MTL22, PENALTY MTL holding 10 yards to the MTL12, 1st and 10,
+                   MTL ball on MTL12.
+  M 1-10 M12   MONTREAL drive start at 11:50 (2nd).
+  M 1-10 M12   Asnnel Robo rush for 4 yards to the MTL16 (Kean Harelimana).
+  M 2-6  M16   Dimitri Morand sacked for loss of 7 yards to the MTL9 (Mathieu Betts).
+               MATHIEU BETTS DETIENT MAITENANT LE RECORD POUR LES SACS DU QUART.
+  M 3-13 M09   Team rush for loss of 9 yards to the MTL0, TEAM safety, clock 10:19.
+
+                                     ======================
+                                      MONTREAL 2, LAVAL 12
+                                     ======================
+
+  M 1-G  M35   Change of possession, LAV ball on LAV35, 1st and 10.
+--------------- 3 plays, minus 12 yards, TOP 01:31 ---------------
+
+      L 1-10 L35   LAVAL drive start at 10:19 (2nd).
+      L 1-10 L35   Hugo Richard pass incomplete to Marc-Ant. Pivin.
+      L 2-10 L35   Hugo Richard pass complete to J Breton Robert for 9 yards to the LAV44
+                   (Br. Harelimana).
+      L 3-1  L44   Dom. Levesque punt 29 yards to the MTL37, Ryth-J. Giraud return 0 yards
+                   to the MTL37, PENALTY LAV NY 5 yards to the MTL42, 1st and 10, MTL
+                   ball on MTL42.
+--------------- 2 plays, 9 yards, TOP 01:01 ---------------
+
+  M 1-10 M42   MONTREAL drive start at 09:18 (2nd).
+  M 1-10 M42   Dimitri Morand pass complete to Fred. Thompson for 3 yards to the MTL45
+               (Maxym Lavallee).
+  M 2-7  M45   PENALTY MTL illegal procedure 5 yards to the MTL40.
+  M 2-12 M40   Dimitri Morand sacked for loss of 5 yards to the MTL35 (Kevin McGee), fumble
+               by Team recovered by MTL Asnnel Robo at MTL35.
+  M 3-17 M35   L-P. Simoneau punt 44 yards to the LAV31, out-of-bounds.
+--------------- 2 plays, minus 7 yards, TOP 01:32 ---------------
+
+      L 1-10 L31   LAVAL drive start at 07:46 (2nd).
+      L 1-10 L31   V Breton Robert rush for 1 yard to the LAV32 (Phil. Lemieux-C).
+      L 2-9  L32   Hugo Richard rush for 9 yards to the LAV41, 1ST DOWN LAV (Br.
+                   Harelimana).
+      L 1-10 L41   Christop. Amoah rush for 5 yards to the LAV46 (Benoit Marion;Phil.
+                   Lemieux-C).
+      L 2-5  L46   Hugo Richard pass incomplete to Math Robitaille, PENALTY MTL pass
+                   interference 15 yards to the MTL49, 1ST DOWN LAV, NO PLAY.
+      L 1-10 M49   Hugo Richard pass complete to Christop. Amoah for 8 yards to the MTL41
+                   (Jean-P Levesque).
+      L 2-2  M41   Hugo Richard pass incomplete to Benoit Gagnon-B (Marc-A. Dequoy).
+      L 3-2  M41   Dom. Levesque punt 36 yards to the MTL5, Francois Hamel return 9 yards
+                   to the MTL14 (Frederic Gagnon).
+--------------- 5 plays, 38 yards, TOP 03:35 ---------------
+
+  M 1-10 M14   MONTREAL drive start at 04:11 (2nd).
+  M 1-10 M14   Asnnel Robo rush for 3 yards to the MTL17 (M-A. Bellefroid;V. Desjardins).
+  M 2-7  M17   Dimitri Morand pass complete to Tristan Fiske-C for 8 yards to the MTL25,
+               1ST DOWN MTL (Kevin McGee).
+  M 1-10 M25   Dimitri Morand pass complete to Regis Cibasu for 4 yards to the MTL29 (Dan
+               Basambombo;Mathieu Betts).
+  M 2-6  M29   Dimitri Morand pass incomplete to Raphael Major-D (Zack Fitzgerald).
+  M 3-6  M29   L-P. Simoneau punt 56 yards to the LAV25, Ant. D-Leclerc return -2 yards to
+               the LAV23 (Bruno Lagace), PENALTY LAV UR 15 yards to the LAV8, 1st
+               and 10, LAV ball on LAV8.
+--------------- 4 plays, 15 yards, TOP 02:17 ---------------
+
+      L 1-10 L08   LAVAL drive start at 01:54 (2nd).
+      L 1-10 L08   Hugo Richard pass complete to Marc-Ant. Pivin for 9 yards to the LAV17
+                   (Br. Harelimana).
+      L 2-1  L17   Hugo Richard rush for 2 yards to the LAV19, 1ST DOWN LAV
+                   (Francois Hamel).
+      L 1-10 L19   V Breton Robert rush for 4 yards to the LAV23 (Phil. Lemieux-C;Benoit
+                   Marion).
+      L 2-6  L23   Hugo Richard pass incomplete to V. F-Mombleau.
+      L 3-6  L23   Dom. Levesque punt 32 yards to the 55 yardline, PENALTY LAV NY 15
+                   yards to the LAV40, 1st and 10, MTL ball on LAV40.
+--------------- 4 plays, 15 yards, TOP 00:42 ---------------
+
+  M 1-10 L40   MONTREAL drive start at 01:12 (2nd).
+  M 1-10 L40   Dimitri Morand pass incomplete to Antoine Mailhot (Zack Fitzgerald).
+  M 2-10 L40   Dimitri Morand pass complete to Regis Cibasu for 20 yards to the LAV20,
+               1ST DOWN MTL (Vince. Levesque).
+  M 1-10 L20   Timeout Montreal, clock 00:58.
+  M 1-10 L20   Dimitri Morand pass incomplete (Maxym Lavallee).
+  M 2-10 L20   Timeout Montreal, clock 00:51.
+  M 2-10 L20   Dimitri Morand pass incomplete to Regis Cibasu (Vince. Levesque).
+  M 3-10 L20   L-P. Simoneau field goal attempt from 27 GOOD, clock 00:41.
+
+                                     ======================
+                                      MONTREAL 5, LAVAL 12
+                                     ======================
+
+  M 1-G  M45   Change of possession, LAV ball on LAV35, 1st and 10.
+--------------- 5 plays, 20 yards, TOP 00:31 ---------------
+
+      L 1-10 L35   LAVAL drive start at 00:41 (2nd).
+      L 1-10 L35   TEAM rush for loss of 1 yard to the LAV34.
+      L 2-11 L34   TEAM rush for loss of 1 yard to the LAV33.
+      L 3-12 L33   End of half, clock 00:00.
+
+                                     ==END OF 2nd QUARTER==
+                                      MONTREAL 5, LAVAL 12
+                                     ======================
+
+Play-by-Play Summary (3rd quarter)
+
+      L 3-12 L33   Start of 3rd quarter, clock 15:00, LAV ball on LAV45.
+--------------- 2 plays, minus 2 yards, TOP 00:41 ---------------
+
+                   David Cote kickoff 57 yards to the MTL8, Ryth-J. Giraud return 23 yards
+                   to the MTL31 (Vince. Levesque).
+  M 1-10 M31   MONTREAL drive start at 14:51 (3rd).
+  M 1-10 M31   Asnnel Robo rush for 11 yards to the MTL42, 1ST DOWN MTL (Nicolas
+               Viens), PENALTY LAV offside defense declined.
+  M 1-10 M42   Dimitri Morand pass complete to Regis Cibasu for 23 yards to the LAV45,
+               1ST DOWN MTL, out-of-bounds (Emile Chenevert), PENALTY LAV offside
+               defense declined.
+  M 1-10 L45   Asnnel Robo rush for no gain to the LAV45 (Dan Basambombo;M-A. Bellefroid).
+  M 2-10 L45   Dimitri Morand pass incomplete to Raphael Major-D.
+  M 3-10 L45   L-P. Simoneau punt 29 yards to the LAV16, out-of-bounds.
+--------------- 4 plays, 34 yards, TOP 01:59 ---------------
+
+      L 1-10 L16   LAVAL drive start at 12:52 (3rd).
+      L 1-10 L16   Hugo Richard pass complete to J Breton Robert for 6 yards to the LAV22,
+                   out-of-bounds (Kramdi Redha).
+      L 2-4  L22   Hugo Richard pass intercepted by Kerfalla Exume at the LAV42, Kerfalla
+                   Exume return 0 yards to the LAV42, out-of-bounds.
+--------------- 2 plays, 6 yards, TOP 00:39 ---------------
+
+  M 1-10 L42   MONTREAL drive start at 12:13 (3rd).
+  M 1-10 L42   Ryth-J. Giraud rush for 2 yards to the LAV40 (V. Desjardins).
+  M 2-8  L40   Dimitri Morand pass incomplete to Antoine Mailhot.
+  M 3-8  L40   L-P. Simoneau punt 35 yards to the LAV5, out-of-bounds.
+--------------- 2 plays, 2 yards, TOP 01:15 ---------------
+
+      L 1-10 L05   LAVAL drive start at 10:58 (3rd).
+      L 1-10 L05   V Breton Robert rush for 13 yards to the LAV18, 1ST DOWN LAV,
+                   out-of-bounds (T-O. Copeland).
+      L 1-10 L18   V Breton Robert rush for 5 yards to the LAV23 (Br. Harelimana).
+      L 2-5  L23   Hugo Richard pass incomplete to Marc-Ant. Pivin (Jean-S. Belisle).
+      L 3-5  L23   Dom. Levesque punt 44 yards to the MTL43, Francois Hamel return 2 yards
+                   to the MTL45 (Adam Auclair).
+--------------- 3 plays, 18 yards, TOP 01:19 ---------------
+
+  M 1-10 M45   MONTREAL drive start at 09:39 (3rd).
+  M 1-10 M45   Asnnel Robo rush for 6 yards to the MTL51 (Adam Auclair).
+  M 2-4  M51   Dimitri Morand pass complete to Regis Cibasu for 3 yards to the MTL54 (Maxym
+               Lavallee).
+  M 3-1  M54   Dimitri Morand rush for 2 yards to the LAV54, 1ST DOWN MTL (Dan
+               Basambombo;V. Desjardins).
+  M 1-10 L54   Dimitri Morand pass complete to Fred. Thompson for 5 yards to the LAV49,
+               out-of-bounds (Adam Auclair).
+  M 2-5  L49   Dimitri Morand sacked for loss of 5 yards to the LAV54 (M-A. Bellefroid).
+  M 3-10 L54   L-P. Simoneau punt 18 yards to the LAV36, out-of-bounds.
+--------------- 5 plays, 11 yards, TOP 02:58 ---------------
+
+      L 1-10 L36   LAVAL drive start at 06:41 (3rd).
+      L 1-10 L36   Hugo Richard pass complete to Marc-Ant. Pivin for 8 yards to the LAV44
+                   (Samuel Rossi).
+      L 2-2  L44   V Breton Robert rush for 4 yards to the LAV48, 1ST DOWN LAV
+                   (Kramdi Redha;Br. Harelimana).
+      L 1-10 L48   Christop. Amoah rush for 5 yards to the LAV53 (Br. Harelimana).
+      L 2-5  L53   Hugo Richard pass incomplete to Etienne Moisan.
+      L 3-5  L53   Dom. Levesque punt 38 yards to the MTL19, Ryth-J. Giraud return 2 yards
+                   to the MTL21, out-of-bounds.
+--------------- 4 plays, 17 yards, TOP 02:21 ---------------
+
+  M 1-10 M21   MONTREAL drive start at 04:20 (3rd).
+  M 1-10 M21   PENALTY MTL illegal procedure 5 yards to the MTL16.
+  M 1-15 M16   Dimitri Morand pass incomplete.
+  M 2-15 M16   Dimitri Morand pass complete to Antoine Mailhot for 10 yards to the MTL26.
+  M 3-5  M26   L-P. Simoneau punt 50 yards to the LAV34, Ant. D-Leclerc return 1 yards to
+               the LAV35, PENALTY LAV holding 10 yards to the LAV25, 1st and 10, LAV
+               ball on LAV25.
+--------------- 2 plays, 5 yards, TOP 01:50 ---------------
+
+      L 1-10 L25   LAVAL drive start at 02:30 (3rd).
+      L 1-10 L25   Hugo Richard pass complete to Felix Garand-G. for 8 yards to the LAV33
+                   (Kramdi Redha).
+      L 2-2  L33   Christop. Amoah rush for 3 yards to the LAV36, 1ST DOWN LAV (Karl
+                   Prevost).
+      L 1-10 L36   Hugo Richard pass complete to V. F-Mombleau for 14 yards to the LAV50,
+                   1ST DOWN LAV (T-O. Copeland).
+      L 1-10 L50   Hugo Richard pass complete to V. F-Mombleau to the LAV54, fumble forced
+                   by Kramdi Redha, fumble by V. F-Mombleau recovered by MTL Marc-A. Dequoy at
+                   LAV54, Marc-A. Dequoy for 54 yards to the LAV0, TOUCHDOWN, clock 00:11, L-P.
+                   Simoneau kick attempt good.
+--------------- 4 plays, 29 yards, TOP 02:19 ---------------
+
+
+                                     ======================
+                                     MONTREAL 12, LAVAL 12
+                                     ======================
+
+
+               L-P. Simoneau kickoff 54 yards to the LAV11, A. M. Murura return 20 yards to
+               the LAV31 (William Perrier).
+      L 1-10 L31   LAVAL drive start at 00:03 (3rd).
+      L 1-10 L31   V Breton Robert rush for loss of 1 yard to the LAV30 (Kramdi Redha).
+
+                                     ==END OF 3rd QUARTER==
+                                     MONTREAL 12, LAVAL 12
+                                     ======================
+
+Play-by-Play Summary (4th quarter)
+
+      L 2-11 L30   Start of 4th quarter, clock 15:00.
+      L 2-11 L30   Hugo Richard pass complete to Math Robitaille for 9 yards to the LAV39
+                   (Jean-S. Belisle).
+      L 3-2  L39   Dom. Levesque punt 37 yards to the MTL34, Ryth-J. Giraud return 2 yards
+                   to the MTL36, out-of-bounds (A. M. Murura).
+--------------- 2 plays, 8 yards, TOP 00:43 ---------------
+
+  M 1-10 M36   MONTREAL drive start at 14:20 (4th).
+  M 1-10 M36   Dimitri Morand pass complete to Asnnel Robo for 8 yards to the MTL44,
+               out-of-bounds (Maxym Lavallee).
+  M 2-2  M44   Asnnel Robo rush for 5 yards to the MTL49, 1ST DOWN MTL.
+  M 1-10 M49   Dimitri Morand pass incomplete to Raphael Major-D, dropped pass.
+  M 2-10 M49   Dimitri Morand pass incomplete to Regis Cibasu (Kean Harelimana).
+  M 3-10 M49   L-P. Simoneau punt 30 yards to the LAV31, out-of-bounds.
+--------------- 4 plays, 13 yards, TOP 01:58 ---------------
+
+      L 1-10 L31   LAVAL drive start at 12:22 (4th).
+      L 1-10 L31   Hugo Richard pass complete to V Breton Robert for 9 yards to the LAV40,
+                   out-of-bounds (Jean-S. Belisle).
+      L 2-1  L40   Hugo Richard rush for no gain to the LAV40 (Phil. Lemieux-C;Br.
+                   Harelimana).
+      L 3-1  L40   PENALTY MTL offside defense 5 yards to the LAV45, 1ST DOWN
+                   LAV.
+      L 1-10 L45   Hugo Richard pass complete to Math Robitaille for 64 yards to the MTL1,
+                   1ST DOWN LAV (Francois Hamel;Jean-S. Belisle).
+      L 1-G  M01   PENALTY LAV TM 10 yards to the MTL11.
+      L 1-G  M11   Hugo Richard pass intercepted by Marc-A. Dequoy at the MTL-9, Marc-A.
+                   Dequoy return 0 yards to the MTL-9, out-of-bounds.
+--------------- 4 plays, 68 yards, TOP 03:00 ---------------
+
+  M 1-10 M-9   MONTREAL drive start at 09:22 (4th).
+  M 1-10 M-9   MTL ball on MTL20.
+  M 1-10 M20   Ryth-J. Giraud rush for 3 yards to the MTL23 (M-A. Bellefroid;Sam.
+               Maranda-B.).
+  M 2-7  M23   Dimitri Morand pass complete to Raphael Major-D for 12 yards to the MTL35,
+               1ST DOWN MTL (Zack Fitzgerald), PENALTY LAV CR declined.
+  M 1-10 M35   Ryth-J. Giraud rush for loss of 5 yards to the MTL30 (Mathieu Betts).
+  M 2-15 M30   Dimitri Morand pass complete to Regis Cibasu for 3 yards to the MTL33 (Adam
+               Auclair;Dan Basambombo).
+  M 3-12 M33   L-P. Simoneau punt 44 yards to the LAV33, out-of-bounds.
+--------------- 4 plays, 13 yards, TOP 02:44 ---------------
+
+      L 1-10 L33   LAVAL drive start at 06:38 (4th).
+      L 1-10 L33   Hugo Richard pass complete to V Breton Robert for 17 yards to the LAV50,
+                   1ST DOWN LAV, out-of-bounds (Jean-S. Belisle).
+      L 1-10 L50   Hugo Richard pass complete to J Breton Robert for 4 yards to the LAV54
+                   (T-O. Copeland).
+      L 2-6  L54   Hugo Richard pass incomplete to Marc-Ant. Pivin.
+      L 3-6  L54   Dom. Levesque punt 48 yards to the MTL8, Ryth-J. Giraud return 6 yards
+                   to the MTL14 (Frederic Pongo).
+--------------- 3 plays, 21 yards, TOP 01:33 ---------------
+
+  M 1-10 M14   MONTREAL drive start at 05:05 (4th).
+  M 1-10 M14   Dimitri Morand pass incomplete to Antoine Mailhot.
+  M 2-10 M14   Dimitri Morand pass complete to Regis Cibasu for 25 yards to the MTL39
+               (Emile Chenevert), PENALTY MTL offside 5 yards to the MTL9, NO PLAY.
+  M 2-15 M09   Dimitri Morand pass intercepted by Emile Chenevert at the MTL22, Emile
+               Chenevert return 0 yards to the MTL22.
+--------------- 2 plays, minus 5 yards, TOP 01:10 ---------------
+
+      L 1-10 M22   LAVAL drive start at 03:55 (4th).
+      L 1-10 M22   Hugo Richard rush for 7 yards to the MTL15.
+      L 2-3  M15   Timeout Laval, clock 02:56.
+      L 2-3  M15   Christop. Amoah rush for 2 yards to the MTL13 (Jean-P Levesque).
+      L 3-1  M13   Clock 02:51.
+      L 3-1  M13   David Cote field goal attempt from 20 GOOD, clock 02:39.
+
+                                     ======================
+                                     MONTREAL 12, LAVAL 15
+                                     ======================
+
+--------------- 3 plays, 9 yards, TOP 01:16 ---------------
+
+                   David Cote kickoff 51 yards to the MTL14, Ryth-J. Giraud return 60 yards
+                   to the LAV36, out-of-bounds (Kean Harelimana).
+  M 1-10 L36   MONTREAL drive start at 02:22 (4th).
+  M 1-10 L36   Dimitri Morand pass incomplete to Regis Cibasu.
+  M 2-10 L36   Clock 02:16.
+  M 2-10 L36   Dimitri Morand sacked for loss of 7 yards to the LAV43 (Mathieu Betts),
+               fumble by Team recovered by MTL Gust. Sylvestre at LAV41.
+  M 3-15 L41   Clock 02:10, L-P. Simoneau field goal attempt from 49 GOOD, clock 01:58.
+
+                                     ======================
+                                     MONTREAL 15, LAVAL 15
+                                     ======================
+
+--------------- 3 plays, minus 5 yards, TOP 00:24 ---------------
+
+               L-P. Simoneau kickoff 66 yards to the LAV-1, A. M. Murura return 21 yards to
+               the LAV20 (Br. Harelimana).
+      L 1-10 L20   LAVAL drive start at 01:50 (4th).
+      L 1-10 L20   Hugo Richard pass complete to Math Robitaille for 55 yards to the MTL35,
+                   out-of-bounds (Jean-S. Belisle), PENALTY LAV offside 5 yards to the
+                   LAV15, NO PLAY.
+      L 1-15 L15   Hugo Richard rush for 17 yards to the LAV32, 1ST DOWN LAV,
+                   out-of-bounds (Francois Hamel).
+      L 1-10 L32   Hugo Richard pass complete to V. F-Mombleau for 6 yards to the LAV38
+                   (Br. Harelimana).
+      L 2-4  L38   Hugo Richard pass incomplete to Marc-Ant. Pivin.
+      L 3-4  L38   Clock 01:07.
+      L 3-4  L38   Dom. Levesque punt 32 yards to the MTL40, Ryth-J. Giraud return 10 yards
+                   to the MTL50 (Dan Basambombo).
+--------------- 3 plays, 18 yards, TOP 00:55 ---------------
+
+  M 1-10 M50   MONTREAL drive start at 00:55 (4th).
+  M 1-10 M50   Dimitri Morand rush for 6 yards to the LAV54 (Dan Basambombo).
+  M 2-4  L54   Timeout Montreal, clock 00:48.
+  M 2-4  L54   Dimitri Morand pass complete to Tristan Fiske-C for 8 yards to the LAV46,
+               1ST DOWN MTL (Adam Auclair).
+  M 1-10 L46   Clock 00:43, Dimitri Morand pass incomplete to Regis Cibasu (Maxym
+               Lavallee).
+  M 2-10 L46   Clock 00:34, Dimitri Morand sacked for loss of 7 yards to the LAV53 (Mathieu
+               Betts).
+  M 3-17 L53   Clock 00:34.
+  M 3-17 L53   L-P. Simoneau punt 16 yards to the LAV37, PENALTY MTL NY 15 yards to the
+               LAV52, 1st and 10, LAV ball on LAV52.
+--------------- 4 plays, 7 yards, TOP 00:49 ---------------
+
+      L 1-10 L52   LAVAL drive start at 00:06 (4th).
+      L 1-10 L52   Hugo Richard sacked for loss of 3 yards to the LAV49 (Karl Prevost).
+      L 2-13 L49   End of game, clock 00:00.
+
+                                     ==END OF 4th QUARTER==
+                                     MONTREAL 15, LAVAL 15
+                                     ======================
+
+Play-by-Play Summary (OT  quarter)
+
+      L 2-13 L49   Start of OT  quarter, clock 00:00, MTL ball on LAV35.
+  M 2-13 L35   Change of possession, MTL ball on LAV35, 1st and 10.
+--------------- 1 plays, minus 3 yards, TOP 15:06 ---------------
+
+  M 1-10 L35   Dimitri Morand rush for 3 yards to the LAV32, out-of-bounds (Dan
+               Basambombo).
+  M 2-7  L32   Dimitri Morand pass complete to Tristan Fiske-C for 7 yards to the LAV25,
+               1ST DOWN MTL (Adam Auclair).
+  M 1-10 L25   Dimitri Morand pass complete to Regis Cibasu for 16 yards to the LAV9,
+               1ST DOWN MTL (Maxym Lavallee).
+  M 1-G  L09   Dimitri Morand pass incomplete to Raphael Major-D, PENALTY LAV offside
+               defense 5 yards to the LAV4, NO PLAY.
+  M 1-G  L04   Dimitri Morand pass incomplete to Regis Cibasu (Maxym Lavallee).
+  M 2-G  L04   Dimitri Morand sacked for loss of 6 yards to the LAV10 (Mathieu Betts).
+  M 3-G  L10   Dimitri Morand pass incomplete to Raphael Major-D (Nicolas Viens).
+--------------- 6 plays, 25 yards, TOP 00:00 ---------------
+
+      L 1-10 L10   Change of possession, LAV ball on MTL35, 1st and 10.
+
+      L 1-10 M35   Christop. Amoah rush for 28 yards to the MTL7, 1ST DOWN LAV
+                   (Kramdi Redha).
+      L 1-G  M07   Christop. Amoah rush for no gain to the MTL7 (Br. Harelimana).
+      L 2-G  M07   Hugo Richard rush for 2 yards to the MTL5 (Jean-P Levesque).
+      L 3-G  M05   David Cote field goal attempt from 12 GOOD, clock 15:00.
+
+                                     ======================
+                                     MONTREAL 15, LAVAL 18
+                                     ======================
+
+--------------- 4 plays, 30 yards, TOP 00:00 ---------------
+
+                                     ======================
+                                     MONTREAL 15, LAVAL 18
+                                     ======================
+
+
+
+Play Breakdown Summary
+
+
+                         Play Breakdown Summary (Final)
+                        Football universitaire RSEQ 2018
+               #4 Montreal vs #2 Laval (2018-10-07 at Quebec, Qc)
+
+
+
+
+Montreal                               Laval
+
+Down               RUN PASS  Total     Down               RUN PASS  Total
+
+OVERALL..........   16   42     58     OVERALL..........   28   41     69
+1ST DOWN.........   13   16     29     1ST DOWN.........   15   24     39
+2ND DOWN-SHORT...    1    0      1     2ND DOWN-SHORT...    8    3     11
+2ND DOWN-MIDDLE..    0    8      8     2ND DOWN-MIDDLE..    0    7      7
+2ND DOWN-LONG....    0   17     17     2ND DOWN-LONG....    4    7     11
+3RD DOWN-SHORT...    1    0      1     3RD DOWN-SHORT...    0    0      0
+3RD DOWN-MIDDLE..    0    0      0     3RD DOWN-MIDDLE..    0    0      0
+3RD DOWN-LONG....    1    1      2     3RD DOWN-LONG....    1    0      1
+4TH DOWN.........    0    0      0     4TH DOWN.........    0    0      0
+
+Montreal                               Laval
+
+Formation        RUN PASS  Total       Formation        RUN PASS  Total
+
+...............   16   42     58       ...............   28   41     69
+
+
+
+
+Play Breakdown
+
+
+                                                       Play Breakdown (Final)
+                                                  Football universitaire RSEQ 2018
+                                         #4 Montreal vs #2 Laval (2018-10-07 at Quebec, Qc)
+
+                                                   Montreal (Sorted by Play type)
+
+1ST DOWN RUN  (13 RUN, 16 PASS)                                  1ST DOWN PASS
+1-10 L35 #16   3 [    ]                                          1-10 M36 #16 to #22     8 [    ]
+1-10 M50 #16   6 [    ]                                          1-10 L36 #16 to #3      - [    ]
+1-10 L45 #22   0 [    ]                                          1-10 M35 #16 to #3      - [    ]
+1-10 M12 #22   4 [    ]                                          1-10 M25 #16 to #3      4 [    ]
+1-10 M14 #22   3 [    ]                                          1-10 L46 #16 to #3      - [    ]
+1-10 M55 #22  -2 [    ]                                          1-10 M41 #16 to #3      5 [    ]
+1-10 M31 #22  11 [    ]                                          1-10 M42 #16 to #3     23 [    ]
+1-10 M45 #22   6 [    ]                                          1-10 L25 #16 to #3     16 [    ]
+1-10 M28 #22   0 [    ]                                          1-4  L04 #16 to #3      - [    ]
+1-10 M35 #22   4 [    ]                                          1-10 M14 #16 to #81     - [    ]
+1-10 M35 #29  -5 [    ]                                          1-10 L40 #16 to #81     - [    ]
+1-10 M20 #29   3 [    ]                                          1-10 M49 #16 to #83     - [    ]
+1-10 L42 #29   2 [    ]                                          1-10 L54 #16 to #84     5 [    ]
+                                                                 1-10 M42 #16 to #84     3 [    ]
+                                                                 1-15 M16 #16 to #       - [    ]
+                                                                 1-10 L20 #16 to #       - [    ]
+
+2ND-SHORT RUN  (1 RUN, 0 PASS)                                   2ND-SHORT PASS
+2-2  M44 #22   5 [    ]
+
+2ND-MIDDLE RUN  (0 RUN, 8 PASS)                                  2ND-MIDDLE PASS
+                                                                 2-5  M46 #16 to #22     - [    ]
+                                                                 2-4  M51 #16 to #3      3 [    ]
+                                                                 2-4  L54 #16 to #73     8 [    ]
+                                                                 2-6  M29 #16 to #83     - [    ]
+                                                                 2-6  M39 #16 to #       - [    ]
+                                                                 2-5  L49 #16 to #    SACK [    ]
+                                                                 2-6  M16 #16 to #    SACK [    ]
+                                                                 2-4  L04 #16 to #    SACK [    ]
+
+2ND-LONG RUN  (0 RUN, 17 PASS)                                   2ND-LONG PASS
+                                                                 2-15 M09 #16 to #26   INT [    ]
+                                                                 2-10 M49 #16 to #3      - [    ]
+                                                                 2-15 M30 #16 to #3      3 [    ]
+                                                                 2-12 M53 #16 to #3      - [    ]
+                                                                 2-10 L40 #16 to #3     20 [    ]
+                                                                 2-10 L20 #16 to #3      - [    ]
+                                                                 2-7  L32 #16 to #73     7 [    ]
+                                                                 2-7  M17 #16 to #73     8 [    ]
+                                                                 2-8  L40 #16 to #81     - [    ]
+                                                                 2-15 M16 #16 to #81    10 [    ]
+                                                                 2-10 L45 #16 to #83     - [    ]
+                                                                 2-7  M23 #16 to #83    12 [    ]
+                                                                 2-10 M35 #16 to #84    20 [    ]
+                                                                 2-10 M28 #16 to #84    13 [    ]
+                                                                 2-10 L46 #16 to #    SACK [    ]
+                                                                 2-12 M40 #16 to #       - [    ]
+                                                                 2-10 L36 #16 to #       - [    ]
+
+3RD-SHORT RUN  (1 RUN, 0 PASS)                                   3RD-SHORT PASS
+3-1  M54 #16   2 [    ]
+
+3RD-MIDDLE RUN  (0 RUN, 0 PASS)                                  3RD-MIDDLE PASS
+
+3RD-LONG RUN  (1 RUN, 1 PASS)                                    3RD-LONG PASS
+3-13 M09 #TM  -9 [    ]                                          3-10 L10 #16 to #83     - [    ]
+
+4TH DOWN RUN  (0 RUN, 0 PASS)                                    4TH DOWN PASS
+
+Play Breakdown
+
+
+                                                       Play Breakdown (Final)
+                                                  Football universitaire RSEQ 2018
+                                         #4 Montreal vs #2 Laval (2018-10-07 at Quebec, Qc)
+
+                                                    Laval (Sorted by Play type)
+
+1ST DOWN RUN  (15 RUN, 24 PASS)                                  1ST DOWN PASS
+1-10 L41 #20   5 [    ]                                          1-10 L36 #4  to #10     8 [    ]
+1-7  M07 #20   0 [    ]                                          1-10 L35 #4  to #10     - [    ]
+1-10 M35 #20  28 [    ]                                          1-10 L08 #4  to #10     9 [    ]
+1-10 L30 #20   3 [    ]                                          1-10 L50 #4  to #11     9 [    ]
+1-10 L48 #20   5 [    ]                                          1-10 L25 #4  to #13     8 [    ]
+1-10 L19 #27   4 [    ]                                          1-10 M49 #4  to #20     8 [    ]
+1-10 L31 #27   1 [    ]                                          1-11 M11 #4  to #24   INT [    ]
+1-10 L18 #27   5 [    ]                                          1-10 L31 #4  to #27     9 [    ]
+1-10 L05 #27  13 [    ]                                          1-10 L33 #4  to #27    17 [    ]
+1-10 L31 #27  -1 [    ]                                          1-10 M49 #4  to #82     - [    ]
+1-10 M22 #4    7 [    ]                                          1-10 L25 #4  to #82     9 [    ]
+1-15 L15 #4   17 [    ]                                          1-10 L45 #4  to #82    64 [    ]
+1-10 L43 #4   -2 [    ]                                          1-30 L10 #4  to #85    16 [    ]
+1-10 M48 #4    7 [    ]                                          1-10 L32 #4  to #86     6 [    ]
+1-10 L35 #TM  -1 [    ]                                          1-10 L50 #4  to #86     4 [    ]
+                                                                 1-10 L36 #4  to #86    14 [    ]
+                                                                 1-10 L16 #4  to #87     6 [    ]
+                                                                 1-10 M26 #4  to #87     6 [    ]
+                                                                 1-10 M35 #4  to #87     - [    ]
+                                                                 1-10 L50 #4  to #87     4 [    ]
+                                                                 1-10 L35 #4  to #87     7 [    ]
+                                                                 1-10 L32 #4  to #87     7 [    ]
+                                                                 1-10 M14 #4  to #       - [    ]
+                                                                 1-10 L52 #4  to #    SACK [    ]
+
+2ND-SHORT RUN  (8 RUN, 3 PASS)                                   2ND-SHORT PASS
+2-3  M15 #20   2 [    ]                                          2-3  L39 #4  to #10    11 [    ]
+2-2  L33 #20   3 [    ]                                          2-2  M41 #4  to #11     - [    ]
+2-2  L44 #27   4 [    ]                                          2-3  L42 #4  to #27    19 [    ]
+2-1  L40 #4    0 [    ]
+2-1  L17 #4    2 [    ]
+2-1  M51 #4    3 [    ]
+2-3  M41 #4    6 [    ]
+2-1  L34 #4    1 [    ]
+
+2ND-MIDDLE RUN  (0 RUN, 7 PASS)                                  2ND-MIDDLE PASS
+                                                                 2-5  L23 #4  to #10     - [    ]
+                                                                 2-6  L54 #4  to #10     - [    ]
+                                                                 2-4  L38 #4  to #10     - [    ]
+                                                                 2-4  M20 #4  to #11     6 [    ]
+                                                                 2-4  L22 #4  to #13   INT [    ]
+                                                                 2-5  L53 #4  to #84     - [    ]
+                                                                 2-6  L23 #4  to #86     - [    ]
+
+2ND-LONG RUN  (4 RUN, 7 PASS)                                    2ND-LONG PASS
+2-7  M07 #4    2 [    ]                                          2-10 M14 #4  to #11    14 [    ]
+2-9  L32 #4    9 [    ]                                          2-11 L30 #4  to #82     9 [    ]
+2-12 L41 #4    7 [    ]                                          2-10 M49 #4  to #86    23 [    ]
+2-11 L34 #TM  -1 [    ]                                          2-10 M35 #4  to #86     - [    ]
+                                                                 2-7  L33 #4  to #86    10 [    ]
+                                                                 2-10 L35 #4  to #87     9 [    ]
+                                                                 2-14 L26 #4  to #    SACK [    ]
+
+3RD-SHORT RUN  (0 RUN, 0 PASS)                                   3RD-SHORT PASS
+
+3RD-MIDDLE RUN  (0 RUN, 0 PASS)                                  3RD-MIDDLE PASS
+
+3RD-LONG RUN  (1 RUN, 0 PASS)                                    3RD-LONG PASS
+3-21 L19 #TM -19 [    ]
+
+4TH DOWN RUN  (0 RUN, 0 PASS)                                    4TH DOWN PASS
+
+
+
+

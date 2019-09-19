@@ -1,17 +1,35 @@
 import sys
 import math as mth
 import re
+import csvTools
 
 #to-do list, handle quarters
 
 PLAY_NB = 1
 PLAYS = []
+CSV_HEADER = ['down_nb', 
+            'distance_to_first',
+            'at_yard',
+            'play_type',
+            'gain',
+            'play_result',
+            'off_team'
+            ]
+
 def getAbsFieldPos(teamWithBall,side,yd):
+    #absolute version
+    #if side == teamWithBall:
+    #   return yd
+
+    #else:
+    #    return 55+55-yd
+
+    #carabins version
     if side == teamWithBall:
-        return yd
+        return -yd
 
     else:
-        return 55+55-yd
+        return yd
 
 def processHeader(header, t1, t2):
     #format of the header: S 1-10 S39
@@ -54,7 +72,7 @@ def processPassPlay(text):
         # (Tackler Name; Tackler2 name)
         if playType == "complete":
             match2 = \
-                re.search("(.*?)\sfor\s(\d+)\syards\sto\sthe\s(\w*)\s.*?\((.*?)\)",
+                re.search("(.*?)\sfor\s(\d+)\syards\sto\sthe\s(\w*)",
                     match.groups()[1],
                     re.DOTALL)
             if match2 != None:
@@ -62,7 +80,7 @@ def processPassPlay(text):
                 play["target"]=match2.group(1)
                 play["gain"]=match2.group(2)
                 # Some tackler names overlap on multiple lines...
-                play["tackled_by"]=re.sub("\n\s*"," ",match2.group(4))
+                #play["tackled_by"]=re.sub("\n\s*"," ",match2.group(4))
 
         #
         elif playType =="incomplete":
@@ -120,9 +138,10 @@ def processDrive(text, t1,t2):
     global PLAYS
     text=text.strip()
     teams = "(?:" + t1[0] + "|" + t2[0] + ")"
-    header="("+teams+"\s+[1-3]-\d+\s+"+teams+"\d+)"
+    header="("+teams+"\s+[1-3]-[\dG]+\s+"+teams+"\d+)"
     reg=re.compile(header, re.DOTALL)
     res = reg.split(text)
+    for i in range(len(res)):
     #we only care about plays 
     # so we remove the first thing before the first header split
     del res[0]
@@ -153,7 +172,7 @@ def main(file):
 
     # Get Play-By-Play infos
     startSection='Play-by-Play Summary \(1st quarter\)'
-    endSection='=FINAL SCORE='
+    endSection='Play Breakdown Summary \(Final\)'
     regex = re.compile(startSection+".*"+endSection, re.DOTALL)
     m = regex.search(f.read())
     allPlays = m.group()
@@ -176,7 +195,7 @@ def main(file):
     for drive in drives:
         processDrive(drive,T1,T2)
 
-    print(PLAYS)
+    csvTools.getCsvFromDict(PLAYS, CSV_HEADER)
 
 if __name__ == "__main__":
     main(sys.argv[1])
